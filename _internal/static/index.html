@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>股票行情监测系统</title>
+  <link rel="stylesheet" href="/static/styles.css?v=51" />
+</head>
+<body>
+  <header class="top">
+    <div>
+      <p class="eyebrow" id="eyebrow">美股自选 · 日线</p>
+      <h1>股票行情监测</h1>
+    </div>
+    <div class="top-actions">
+      <p id="status" class="status">正在读取自选</p>
+      <button id="refresh" type="button" class="btn ghost">刷新行情</button>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside>
+      <div class="markets" id="markets">
+        <button type="button" class="market active" data-market="us">美股</button>
+        <button type="button" class="market" data-market="cn">A股</button>
+        <button type="button" class="market" data-market="fu">期货</button>
+      </div>
+      <form id="add-form" class="add-form">
+        <label class="field">
+          <span>查找</span>
+          <span class="search-box">
+            <input id="symbol" name="symbol" autocomplete="off" spellcheck="false" placeholder="代码或名称，例如 NVDA、英伟达" />
+            <button type="button" id="search-clear" class="search-clear" hidden aria-label="清空">×</button>
+          </span>
+        </label>
+        <button class="btn solid" type="submit">查找</button>
+      </form>
+      <p id="form-error" class="form-error" hidden></p>
+      <div class="tabs" id="tabs">
+        <button type="button" class="tab active" data-tab="watch">自选</button>
+        <button type="button" class="tab" data-tab="hot">热门交易</button>
+        <button type="button" class="tab" data-tab="sectors">板块买点</button>
+      </div>
+      <p id="list-note" class="hint">只计算你添加的代码。</p>
+      <div class="list-tools" id="watch-tools" hidden>
+        <button type="button" id="sort-added" class="chip">按默认顺序</button>
+        <button type="button" id="sort-strength" class="chip">按建议强度</button>
+      </div>
+      <div class="list-tools" id="sector-tools" hidden>
+        <button type="button" id="digest" class="chip">生成推送文案</button>
+      </div>
+      <div id="list" class="list"></div>
+    </aside>
+
+    <main id="detail" class="detail"></main>
+  </div>
+
+  <script src="/static/app.js?v=135"></script>
+</body>
+</html>

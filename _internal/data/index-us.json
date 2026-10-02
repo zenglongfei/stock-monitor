@@ -1,0 +1,4674 @@
+{
+  "market": "us",
+  "names": [
+    "标普500",
+    "纳斯达克100"
+  ],
+  "source": "us-index",
+  "industries": 2,
+  "items": [
+    {
+      "symbol": "A",
+      "name": "安捷伦科技",
+      "industry": "生命科学工具和服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "AAPL",
+      "name": "苹果",
+      "industry": "电脑硬件、储存设备及电脑周边",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ABBV",
+      "name": "艾伯维",
+      "industry": "制药",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ABNB",
+      "name": "爱彼迎",
+      "industry": "酒店、度假村与豪华游轮",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ABT",
+      "name": "雅培",
+      "industry": "医疗保健设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ACGL",
+      "name": "艾奇资本",
+      "industry": "财产与意外伤害保险",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ACN",
+      "name": "埃森哲",
+      "industry": "信息科技咨询与其它服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ADBE",
+      "name": "Adobe",
+      "industry": "应用软件",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ADI",
+      "name": "亚德诺",
+      "industry": "半导体产品",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ADM",
+      "name": "阿彻丹尼尔斯米德兰公司",
+      "industry": "农产品与服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ADP",
+      "name": "自动数据处理",
+      "industry": "数据处理与外包服务",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ADSK",
+      "name": "欧特克",
+      "industry": "应用软件",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "AEE",
+      "name": "阿美能",
+      "industry": "复合型公用事业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "AEP",
+      "name": "美国电力",
+      "industry": "电力公用事业",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "AES",
+      "name": "爱依斯",
+      "industry": "独立电力生产商与能源贸易商",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "AFL",
+      "name": "美国家庭寿险",
+      "industry": "人寿与健康保险",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "AIG",
+      "name": "美国国际集团",
+      "industry": "多元化保险",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "AIZ",
+      "name": "艾斯兰",
+      "industry": "多元化保险",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "AJG",
+      "name": "亚瑟加拉格尔有限公司",
+      "industry": "保险经纪商",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "AKAM",
+      "name": "阿克迈",
+      "industry": "互联网服务与基础设施",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ALAB",
+      "name": "ALAB",
+      "industry": "半导体产品",
+      "indexes": "纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ALB",
+      "name": "雅保化工",
+      "industry": "特种化学制品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ALGN",
+      "name": "艾利科技",
+      "industry": "医疗保健用品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ALL",
+      "name": "好事达",
+      "industry": "财产与意外伤害保险",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ALLE",
+      "name": "安朗杰",
+      "industry": "建筑产品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ALNY",
+      "name": "阿里拉姆制药",
+      "industry": "生物科技",
+      "indexes": "纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "AMAT",
+      "name": "应用材料",
+      "industry": "半导体材料与设备",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "AMCR",
+      "name": "AMCOR PLC",
+      "industry": "纸质和塑料包装产品及材料",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "AMD",
+      "name": "超威半导体",
+      "industry": "半导体产品",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "AME",
+      "name": "阿美特克",
+      "industry": "电气部件与设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "AMGN",
+      "name": "安进",
+      "industry": "生物科技",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "AMP",
+      "name": "阿默斯莱斯金融",
+      "industry": "资产管理与托管银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "AMT",
+      "name": "美国电塔",
+      "industry": "其他专门REIT",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "AMZN",
+      "name": "亚马逊",
+      "industry": "多品类零售",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ANET",
+      "name": "ANET",
+      "industry": "通信设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "AON",
+      "name": "怡安保险",
+      "industry": "保险经纪商",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "AOS",
+      "name": "A.O.史密斯",
+      "industry": "建筑产品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "APA",
+      "name": "阿帕奇石油",
+      "industry": "石油与天然气的勘探与生产",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "APD",
+      "name": "空气化工",
+      "industry": "工业气体",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "APH",
+      "name": "安费诺",
+      "industry": "电子元件",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "APO",
+      "name": "阿波罗全球管理",
+      "industry": "资产管理与托管银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "APP",
+      "name": "APP AppLovin",
+      "industry": "互联网服务与基础设施",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "APTV",
+      "name": "Aptiv PLC",
+      "industry": "汽车零件与设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ARE",
+      "name": "亚历山大房地产",
+      "industry": "写字楼REIT",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ARES",
+      "name": "ARES",
+      "industry": "资产管理与托管银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ARM",
+      "name": "ARM",
+      "industry": "半导体材料与设备",
+      "indexes": "纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ASML",
+      "name": "阿斯麦",
+      "industry": "半导体材料与设备",
+      "indexes": "纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ATO",
+      "name": "ATMOS能源公司",
+      "industry": "燃气公用事业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "AVGO",
+      "name": "博通",
+      "industry": "半导体产品",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "AVY",
+      "name": "艾利",
+      "industry": "纸质和塑料包装产品及材料",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "AWK",
+      "name": "美国水务",
+      "industry": "水公用事业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "AXON",
+      "name": "AXON",
+      "industry": "航天航空与国防",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "AXP",
+      "name": "美国运通",
+      "industry": "消费信贷",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "AZO",
+      "name": "汽车地带",
+      "industry": "汽车零售",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "BA",
+      "name": "波音",
+      "industry": "航天航空与国防",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "BAC",
+      "name": "美国银行",
+      "industry": "综合性银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "BALL",
+      "name": "BALL",
+      "industry": "金属、玻璃及塑料器皿",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "BAX",
+      "name": "百特国际",
+      "industry": "医疗保健设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "BBY",
+      "name": "百思买",
+      "industry": "电脑与电子产品零售",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "BDX",
+      "name": "碧迪",
+      "industry": "医疗保健设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "BE",
+      "name": "BE",
+      "industry": "电气部件与设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "BEN",
+      "name": "富兰克林资源",
+      "industry": "资产管理与托管银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "BF-B",
+      "name": "百富门-B",
+      "industry": "酿酒商与葡萄酒商",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "BG",
+      "name": "邦吉",
+      "industry": "农产品与服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "BIIB",
+      "name": "渤健",
+      "industry": "生物科技",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "BKNG",
+      "name": "缤客",
+      "industry": "酒店、度假村与豪华游轮",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "BKR",
+      "name": "Michael Baker Corp",
+      "industry": "石油天然气设备与服务",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "BLK",
+      "name": "贝莱德",
+      "industry": "资产管理与托管银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "BMY",
+      "name": "施贵宝",
+      "industry": "制药",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "BNY",
+      "name": "纽约梅隆银行",
+      "industry": "资产管理与托管银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "BR",
+      "name": "布罗德里奇",
+      "industry": "数据处理与外包服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "BRK-B",
+      "name": "伯克希尔哈撒韦-B",
+      "industry": "财产与意外伤害保险",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "BRO",
+      "name": "布朗保险经纪",
+      "industry": "保险经纪商",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "BSX",
+      "name": "波士顿科学",
+      "industry": "医疗保健设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "BX",
+      "name": "黑石",
+      "industry": "资产管理与托管银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "BXP",
+      "name": "波士顿物产",
+      "industry": "写字楼REIT",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "C",
+      "name": "花旗",
+      "industry": "综合性银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CAH",
+      "name": "卡地纳",
+      "industry": "保健护理产品经销商",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CARR",
+      "name": "CARR",
+      "industry": "建筑产品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CASY",
+      "name": "Casey’",
+      "industry": "食品零售",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CAT",
+      "name": "卡特彼勒",
+      "industry": "工业机械、物料与部件",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CB",
+      "name": "安达保险",
+      "industry": "财产与意外伤害保险",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CBOE",
+      "name": "芝加哥期权交易所",
+      "industry": "特殊金融服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CBRE",
+      "name": "CBRE Group Inc Class A",
+      "industry": "房地产服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CCEP",
+      "name": "可口可乐欧洲太平洋",
+      "industry": "软饮料与不含酒精饮料",
+      "indexes": "纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CCI",
+      "name": "冠城",
+      "industry": "其他专门REIT",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CCL",
+      "name": "嘉年华",
+      "industry": "酒店、度假村与豪华游轮",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CDNS",
+      "name": "铿腾电子",
+      "industry": "应用软件",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CDW",
+      "name": "CDW Corporation",
+      "industry": "技术产品经销商",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CEG",
+      "name": "CEG",
+      "industry": "电力公用事业",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CF",
+      "name": "CF实业",
+      "industry": "化肥与农用药剂",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CFG",
+      "name": "CFG",
+      "industry": "区域性银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CHD",
+      "name": "丘奇＆德怀特",
+      "industry": "居家用品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CHRW",
+      "name": "罗宾逊全球货运",
+      "industry": "航空货运与物流",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CHTR",
+      "name": "特许通讯",
+      "industry": "有线和卫星电视",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CI",
+      "name": "信诺",
+      "industry": "人寿与健康保险",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CIEN",
+      "name": "Ciena科技",
+      "industry": "通信设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CINF",
+      "name": "辛市金融",
+      "industry": "财产与意外伤害保险",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CL",
+      "name": "高露洁",
+      "industry": "居家用品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CLX",
+      "name": "高乐氏",
+      "industry": "居家用品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CMCSA",
+      "name": "康卡斯特",
+      "industry": "有线和卫星电视",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CME",
+      "name": "芝商所",
+      "industry": "特殊金融服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CMG",
+      "name": "墨式烧烤",
+      "industry": "餐馆",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CMI",
+      "name": "康明斯",
+      "industry": "建筑机械与重型运输设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CMS",
+      "name": "CMS能源",
+      "industry": "复合型公用事业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CNC",
+      "name": "Centene Corp",
+      "industry": "管理型保健护理",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CNP",
+      "name": "中点能源",
+      "industry": "复合型公用事业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "COF",
+      "name": "第一资本",
+      "industry": "消费信贷",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "COHR",
+      "name": "COHR",
+      "industry": "电子元件",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "COIN",
+      "name": "COIN",
+      "industry": "综合性资本市场",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "COO",
+      "name": "库珀医疗",
+      "industry": "医疗保健用品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "COP",
+      "name": "康菲石油",
+      "industry": "石油与天然气的勘探与生产",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "COR",
+      "name": "CoreSite房产",
+      "industry": "保健护理产品经销商",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "COST",
+      "name": "开市客",
+      "industry": "日常消费品零售",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CPAY",
+      "name": "CPAY",
+      "industry": "数据处理与外包服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CPRT",
+      "name": "科帕特",
+      "industry": "综合支持服务",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CPT",
+      "name": "卡姆登物业信托",
+      "industry": "多户住宅REIT",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CRH",
+      "name": "CRH水泥",
+      "industry": "建筑材料",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CRL",
+      "name": "查尔斯河实验室",
+      "industry": "生命科学工具和服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CRM",
+      "name": "赛富时",
+      "industry": "应用软件",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CRWD",
+      "name": "CrowdStrike",
+      "industry": "应用软件",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CRWV",
+      "name": "CRWV",
+      "industry": "应用软件",
+      "indexes": "纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CSCO",
+      "name": "思科",
+      "industry": "通信设备",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CSGP",
+      "name": "科斯塔",
+      "industry": "互联网服务与基础设施",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CSX",
+      "name": "CSX运输",
+      "industry": "铁路",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CTAS",
+      "name": "信达思",
+      "industry": "综合支持服务",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CTSH",
+      "name": "高知特",
+      "industry": "信息科技咨询与其它服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CTVA",
+      "name": "科迪华",
+      "industry": "农产品与服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CVNA",
+      "name": "Carvana Co.",
+      "industry": "汽车零售",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CVS",
+      "name": "西维斯健康",
+      "industry": "药品零售",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "CVX",
+      "name": "雪佛龙",
+      "industry": "综合性石油与天然气企业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "D",
+      "name": "道明尼资源",
+      "industry": "复合型公用事业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "DAL",
+      "name": "达美航空",
+      "industry": "客运航空公司",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "DASH",
+      "name": "DoorDash",
+      "industry": "消闲设施",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "DD",
+      "name": "杜邦",
+      "industry": "多种化学制品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "DDOG",
+      "name": "DDOG",
+      "industry": "应用软件",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "DE",
+      "name": "迪尔股份有限公司",
+      "industry": "建筑机械与重型运输设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "DECK",
+      "name": "德克斯户外",
+      "industry": "鞋类",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "DELL",
+      "name": "戴尔",
+      "industry": "电脑硬件、储存设备及电脑周边",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "DG",
+      "name": "美国达乐公司",
+      "industry": "多品类零售",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "DGX",
+      "name": "奎斯特",
+      "industry": "保健护理服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "DHI",
+      "name": "霍顿房屋",
+      "industry": "住宅建筑",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "DHR",
+      "name": "丹纳赫",
+      "industry": "工业集团企业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "DIS",
+      "name": "迪士尼",
+      "industry": "电影与娱乐",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "DLR",
+      "name": "数字房地信托",
+      "industry": "写字楼REIT",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "DLTR",
+      "name": "美元树",
+      "industry": "多品类零售",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "DOC",
+      "name": "PHYSICIANS REALTY TRUST COM",
+      "industry": "多样化房地产投资信托",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "DOV",
+      "name": "美国都福集团",
+      "industry": "工业机械、物料与部件",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "DOW",
+      "name": "陶氏",
+      "industry": "多种化学制品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "DPZ",
+      "name": "达美乐比萨",
+      "industry": "餐馆",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "DRI",
+      "name": "达登饭店",
+      "industry": "餐馆",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "DTE",
+      "name": "DTE能源",
+      "industry": "复合型公用事业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "DUK",
+      "name": "杜克能源",
+      "industry": "电力公用事业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "DVA",
+      "name": "达维塔保健",
+      "industry": "保健护理服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "DVN",
+      "name": "德文能源",
+      "industry": "石油与天然气的勘探与生产",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "DXCM",
+      "name": "德康医疗",
+      "industry": "医疗保健设备",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "EBAY",
+      "name": "eBay",
+      "industry": "互联网服务与基础设施",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ECHO",
+      "name": "Echo Global Logistics",
+      "industry": "通信设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ECL",
+      "name": "艺康集团",
+      "industry": "特种化学制品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ED",
+      "name": "爱迪生联合电气",
+      "industry": "复合型公用事业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "EFX",
+      "name": "艾可菲",
+      "industry": "调查和咨询服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "EG",
+      "name": "EG",
+      "industry": "再保险",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "EIX",
+      "name": "爱迪生国际",
+      "industry": "电力公用事业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "EL",
+      "name": "雅诗兰黛",
+      "industry": "个人护理用品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ELV",
+      "name": "ELV",
+      "industry": "管理型保健护理",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "EME",
+      "name": "埃姆科",
+      "industry": "建筑与工程",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "EMR",
+      "name": "艾默生电气",
+      "industry": "电气部件与设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "EOG",
+      "name": "依欧格资源",
+      "industry": "石油与天然气的勘探与生产",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "EQIX",
+      "name": "易昆尼克斯",
+      "industry": "互联网服务与基础设施",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "EQT",
+      "name": "EQT 公平",
+      "industry": "石油与天然气的勘探与生产",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ERIE",
+      "name": "伊瑞保险",
+      "industry": "财产与意外伤害保险",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ES",
+      "name": "Eversource Energy",
+      "industry": "电力公用事业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ESS",
+      "name": "埃塞克斯信托",
+      "industry": "多户住宅REIT",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ETN",
+      "name": "伊顿",
+      "industry": "电气部件与设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ETR",
+      "name": "安特吉",
+      "industry": "电力公用事业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "EVRG",
+      "name": "Evergy Inc.",
+      "industry": "电力公用事业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "EW",
+      "name": "爱德华兹",
+      "industry": "医疗保健设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "EXC",
+      "name": "爱克斯龙",
+      "industry": "电力公用事业",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "EXE",
+      "name": "EXE",
+      "industry": "石油与天然气的勘探与生产",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "EXPD",
+      "name": "康捷国际物流",
+      "industry": "航空货运与物流",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "EXPE",
+      "name": "亿客行",
+      "industry": "酒店、度假村与豪华游轮",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "EXR",
+      "name": "Extra Space Storage Inc",
+      "industry": "其他专门REIT",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "F",
+      "name": "福特汽车",
+      "industry": "汽车制造商",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "FANG",
+      "name": "Diamondback Energy",
+      "industry": "石油与天然气的勘探与生产",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "FAST",
+      "name": "快扣",
+      "industry": "贸易公司与经销商",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "FCX",
+      "name": "麦克莫兰铜金",
+      "industry": "多种金属与采矿",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "FDS",
+      "name": "辉盛研究系统",
+      "industry": "应用软件",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "FDX",
+      "name": "联邦快递",
+      "industry": "航空货运与物流",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "FDXF",
+      "name": "FDXF",
+      "industry": "航空货运与物流",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "FE",
+      "name": "第一能源公司",
+      "industry": "电力公用事业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "FER",
+      "name": "FER",
+      "industry": "建筑与工程",
+      "indexes": "纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "FERG",
+      "name": "FERG",
+      "industry": "贸易公司与经销商",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "FFIV",
+      "name": "F5网络",
+      "industry": "通信设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "FICO",
+      "name": "Fair Isaac Corp",
+      "industry": "应用软件",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "FIS",
+      "name": "繁德信息技术",
+      "industry": "数据处理与外包服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "FISV",
+      "name": "费哲",
+      "industry": "数据处理与外包服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "FITB",
+      "name": "五三银行",
+      "industry": "区域性银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "FIX",
+      "name": "Comfort Systems USA",
+      "industry": "建筑与工程",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "FLEX",
+      "name": "伟创力国际",
+      "industry": "技术产品经销商",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "FOX",
+      "name": "福克斯-B",
+      "industry": "广播",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "FOXA",
+      "name": "21世纪福克斯",
+      "industry": "广播",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "FRT",
+      "name": "FRT信托",
+      "industry": "零售REIT",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "FSLR",
+      "name": "第一太阳能",
+      "industry": "半导体产品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "FTNT",
+      "name": "飞塔信息",
+      "industry": "系统软件",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "FTV",
+      "name": "Fortive Corporation",
+      "industry": "工业集团企业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "GD",
+      "name": "通用动力",
+      "industry": "航天航空与国防",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "GDDY",
+      "name": "GDDY",
+      "industry": "互联网服务与基础设施",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "GE",
+      "name": "GE航空航天",
+      "industry": "工业集团企业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "GEHC",
+      "name": "GEHC",
+      "industry": "医疗保健设备",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "GEN",
+      "name": "Genesis Healthcare Inc.",
+      "industry": "系统软件",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "GEV",
+      "name": "GEV",
+      "industry": "电子设备和仪器",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "GILD",
+      "name": "吉利德",
+      "industry": "生物科技",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "GIS",
+      "name": "通用磨坊",
+      "industry": "包装食品与肉类",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "GL",
+      "name": "GL",
+      "industry": "人寿与健康保险",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "GLW",
+      "name": "康宁",
+      "industry": "电子元件",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "GM",
+      "name": "通用汽车",
+      "industry": "汽车制造商",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "GNRC",
+      "name": "Generac控股",
+      "industry": "电气部件与设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "GOOG",
+      "name": "谷歌",
+      "industry": "互动媒体与服务",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "谷歌A类股",
+      "industry": "互动媒体与服务",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "GPC",
+      "name": "纯正部件",
+      "industry": "经销商",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "GPN",
+      "name": "环汇有限公司",
+      "industry": "数据处理与外包服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "GRMN",
+      "name": "佳明",
+      "industry": "消费电子产品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "GS",
+      "name": "高盛",
+      "industry": "投资银行业与经纪业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "GWW",
+      "name": "美国固安捷",
+      "industry": "贸易公司与经销商",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "HAL",
+      "name": "哈里伯顿",
+      "industry": "石油天然气设备与服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "HAS",
+      "name": "孩之宝",
+      "industry": "消闲用品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "HBAN",
+      "name": "亨廷顿",
+      "industry": "区域性银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "HCA",
+      "name": "HCA控股",
+      "industry": "保健护理产品经销商",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "HD",
+      "name": "家得宝",
+      "industry": "家庭装潢零售",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "HIG",
+      "name": "哈特福德",
+      "industry": "多元化保险",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "HII",
+      "name": "亨廷顿英戈尔",
+      "industry": "航天航空与国防",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "HLT",
+      "name": "希尔顿酒店",
+      "industry": "酒店、度假村与豪华游轮",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "HON",
+      "name": "霍尼韦尔",
+      "industry": "工业集团企业",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "HONA",
+      "name": "HONA",
+      "industry": "航天航空与国防",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "HOOD",
+      "name": "罗宾汉",
+      "industry": "资产管理与托管银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "HPE",
+      "name": "慧与",
+      "industry": "电脑硬件、储存设备及电脑周边",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "HPQ",
+      "name": "惠普",
+      "industry": "电脑硬件、储存设备及电脑周边",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "HRL",
+      "name": "荷美尔",
+      "industry": "包装食品与肉类",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "HSIC",
+      "name": "亨利香恩服务",
+      "industry": "保健护理产品经销商",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "HST",
+      "name": "美国豪斯特酒店",
+      "industry": "其他专门REIT",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "HSY",
+      "name": "好时",
+      "industry": "包装食品与肉类",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "HUBB",
+      "name": "Hubbell Incorporated",
+      "industry": "电气部件与设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "HUM",
+      "name": "休曼纳",
+      "industry": "管理型保健护理",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "HWM",
+      "name": "HWM",
+      "industry": "多种金属与采矿",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "IBKR",
+      "name": "盈透证券",
+      "industry": "特殊金融服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "IBM",
+      "name": "IBM",
+      "industry": "信息科技咨询与其它服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ICE",
+      "name": "洲交所",
+      "industry": "特殊金融服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "IDXX",
+      "name": "IDEXX实验室",
+      "industry": "医疗保健设备",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "IEX",
+      "name": "IDEX Corp",
+      "industry": "工业机械、物料与部件",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "IFF",
+      "name": "国际香料香精",
+      "industry": "特种化学制品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ILMN",
+      "name": "Illumina",
+      "industry": "生命科学工具和服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "INCY",
+      "name": "因塞特医疗",
+      "industry": "生物科技",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "INTC",
+      "name": "英特尔",
+      "industry": "半导体产品",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "INTU",
+      "name": "财捷",
+      "industry": "应用软件",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "INVH",
+      "name": "Invitation Homes Inc.",
+      "industry": "多元化房地产业务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "IP",
+      "name": "国际纸业",
+      "industry": "纸制品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "IQV",
+      "name": "Iqvia Holdings Inc.",
+      "industry": "生命科学工具和服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "IR",
+      "name": "英格索兰",
+      "industry": "电子设备和仪器",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "IRM",
+      "name": "铁山",
+      "industry": "多样化房地产投资信托",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ISRG",
+      "name": "直觉外科",
+      "industry": "医疗保健设备",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "IT",
+      "name": "加特纳",
+      "industry": "信息科技咨询与其它服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ITW",
+      "name": "伊利诺工具",
+      "industry": "工业机械、物料与部件",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "IVZ",
+      "name": "美国景顺集团",
+      "industry": "资产管理与托管银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "J",
+      "name": "J",
+      "industry": "建筑与工程",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "JBHT",
+      "name": "JB Hunt运输服务",
+      "industry": "地面货运",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "JBL",
+      "name": "捷普",
+      "industry": "电子制造服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "JCI",
+      "name": "江森自控",
+      "industry": "建筑产品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "JKHY",
+      "name": "杰克亨利",
+      "industry": "数据处理与外包服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "JNJ",
+      "name": "强生",
+      "industry": "制药",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "JPM",
+      "name": "摩根大通",
+      "industry": "综合性银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "KDP",
+      "name": "Keurig Dr Pepper Inc",
+      "industry": "软饮料与不含酒精饮料",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "KEY",
+      "name": "KeyCorp",
+      "industry": "区域性银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "KEYS",
+      "name": "Keysight Technologies Inc.",
+      "industry": "电子元件",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "KHC",
+      "name": "卡夫亨氏",
+      "industry": "包装食品与肉类",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "KIM",
+      "name": "金科",
+      "industry": "多样化房地产投资信托",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "KKR",
+      "name": "KKR & Co L.P.",
+      "industry": "资产管理与托管银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "KLAC",
+      "name": "科磊",
+      "industry": "半导体材料与设备",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "KMB",
+      "name": "金伯利",
+      "industry": "居家用品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "KMI",
+      "name": "金德尔摩根",
+      "industry": "石油与天然气的储存和运输",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "KO",
+      "name": "可口可乐",
+      "industry": "软饮料与不含酒精饮料",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "KR",
+      "name": "克罗格",
+      "industry": "食品零售",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "KVUE",
+      "name": "KVUE",
+      "industry": "个人护理用品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "L",
+      "name": "洛斯公司",
+      "industry": "多元化保险",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "LDOS",
+      "name": "Leidos Holdings Inc",
+      "industry": "信息科技咨询与其它服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "LEN",
+      "name": "莱纳建筑公司",
+      "industry": "住宅建筑",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "LH",
+      "name": "实验美控",
+      "industry": "医疗保健技术",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "LHX",
+      "name": "L3 HARRIS TECHNOLOGIES INC",
+      "industry": "通信设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "LII",
+      "name": "雷诺士",
+      "industry": "建筑产品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "LIN",
+      "name": "Linde Plc",
+      "industry": "商品化工",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "LITE",
+      "name": "Lumentum Holdings Inc.",
+      "industry": "通信设备",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "LLY",
+      "name": "礼来",
+      "industry": "制药",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "LMT",
+      "name": "洛克希德马丁",
+      "industry": "航天航空与国防",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "LNT",
+      "name": "美国联合能源",
+      "industry": "电力公用事业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "LOW",
+      "name": "劳氏",
+      "industry": "家庭装潢零售",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "LRCX",
+      "name": "泛林集团",
+      "industry": "半导体材料与设备",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "LULU",
+      "name": "lululemon athletica inc.",
+      "industry": "服装、服饰与奢侈品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "LUV",
+      "name": "西南航空",
+      "industry": "客运航空公司",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "LVS",
+      "name": "金沙集团",
+      "industry": "赌场与赌博",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "LYB",
+      "name": "利安德巴塞尔",
+      "industry": "商品化工",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "LYV",
+      "name": "Live Nation Entertainment",
+      "industry": "电影与娱乐",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MA",
+      "name": "万事达",
+      "industry": "数据处理与外包服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MAA",
+      "name": "MAA房产信托",
+      "industry": "多户住宅REIT",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MAR",
+      "name": "万豪",
+      "industry": "酒店、度假村与豪华游轮",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MAS",
+      "name": "马斯科",
+      "industry": "建筑产品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MCD",
+      "name": "麦当劳",
+      "industry": "餐馆",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MCHP",
+      "name": "微芯科技",
+      "industry": "半导体产品",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MCK",
+      "name": "麦克森",
+      "industry": "保健护理产品经销商",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MCO",
+      "name": "穆迪",
+      "industry": "特殊金融服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MDLZ",
+      "name": "亿滋",
+      "industry": "包装食品与肉类",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MDT",
+      "name": "美敦力",
+      "industry": "医疗保健设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MELI",
+      "name": "MercadoLibre",
+      "industry": "互联网服务与基础设施",
+      "indexes": "纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MET",
+      "name": "大都会人寿",
+      "industry": "人寿与健康保险",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "industry": "互联网服务与基础设施",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MGM",
+      "name": "美高梅",
+      "industry": "赌场与赌博",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MKC",
+      "name": "味好美",
+      "industry": "包装食品与肉类",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MLM",
+      "name": "马丁-玛丽埃塔材料",
+      "industry": "建筑材料",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MMM",
+      "name": "3M",
+      "industry": "工业集团企业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MNST",
+      "name": "怪物饮料",
+      "industry": "软饮料与不含酒精饮料",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MO",
+      "name": "奥驰亚",
+      "industry": "烟草",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MOS",
+      "name": "美国美盛",
+      "industry": "化肥与农用药剂",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MPC",
+      "name": "马拉松石油",
+      "industry": "石油与天然气的炼制和营销",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MPWR",
+      "name": "Monolithic Power Systems",
+      "industry": "半导体产品",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MRK",
+      "name": "默沙东",
+      "industry": "制药",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MRNA",
+      "name": "MRNA",
+      "industry": "生物科技",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MRSH",
+      "name": "MRSH",
+      "industry": "保险经纪商",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MRVL",
+      "name": "迈威尔科技",
+      "industry": "半导体材料与设备",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MS",
+      "name": "摩根士丹利",
+      "industry": "投资银行业与经纪业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MSCI",
+      "name": "明晟",
+      "industry": "特殊金融服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MSFT",
+      "name": "微软",
+      "industry": "系统软件",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MSI",
+      "name": "摩托罗拉",
+      "industry": "通信设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MSTR",
+      "name": "MSTR",
+      "industry": "应用软件",
+      "indexes": "纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MTB",
+      "name": "美国制商银行",
+      "industry": "区域性银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MTD",
+      "name": "梅特勒-托利多",
+      "industry": "生命科学工具和服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "MU",
+      "name": "美光",
+      "industry": "半导体产品",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "NBIS",
+      "name": "NBIS",
+      "industry": "互联网服务与基础设施",
+      "indexes": "纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "NCLH",
+      "name": "挪威邮轮",
+      "industry": "酒店、度假村与豪华游轮",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "NDAQ",
+      "name": "纳斯达克集团",
+      "industry": "特殊金融服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "NDSN",
+      "name": "诺信",
+      "industry": "工业机械、物料与部件",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "NEE",
+      "name": "新纪元能源",
+      "industry": "电力公用事业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "NEM",
+      "name": "纽曼矿业",
+      "industry": "黄金",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "NFLX",
+      "name": "奈飞",
+      "industry": "电影与娱乐",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "NI",
+      "name": "印北瓦电",
+      "industry": "复合型公用事业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "NKE",
+      "name": "耐克",
+      "industry": "鞋类",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "NOC",
+      "name": "诺斯洛普",
+      "industry": "航天航空与国防",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "NOW",
+      "name": "现在服务",
+      "industry": "系统软件",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "NRG",
+      "name": "NRG能源",
+      "industry": "独立电力生产商与能源贸易商",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "NSC",
+      "name": "诺福克南方",
+      "industry": "铁路",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "NTAP",
+      "name": "美国网存",
+      "industry": "电脑硬件、储存设备及电脑周边",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "NTRS",
+      "name": "北方信托公司",
+      "industry": "资产管理与托管银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "NUE",
+      "name": "纽柯钢铁",
+      "industry": "钢铁",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "NVDA",
+      "name": "英伟达",
+      "industry": "半导体产品",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "NVR",
+      "name": "NVR Inc",
+      "industry": "住宅建筑",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "NWS",
+      "name": "新闻集团",
+      "industry": "出版",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "NWSA",
+      "name": "新闻集团",
+      "industry": "出版",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "NXPI",
+      "name": "恩智浦",
+      "industry": "半导体产品",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "O",
+      "name": "Realty Income Corp",
+      "industry": "零售REIT",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ODFL",
+      "name": "Old Dominion Freight Line",
+      "industry": "地面货运",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "OKE",
+      "name": "万欧克",
+      "industry": "石油与天然气的储存和运输",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "OMC",
+      "name": "宏盟集团",
+      "industry": "广告",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ON",
+      "name": "ON SEMICONDUCTOR",
+      "industry": "半导体产品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ORCL",
+      "name": "甲骨文",
+      "industry": "系统软件",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ORLY",
+      "name": "奥莱利",
+      "industry": "汽车零售",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "OTIS",
+      "name": "OTIS",
+      "industry": "工业机械、物料与部件",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "OXY",
+      "name": "西方石油",
+      "industry": "综合性石油与天然气企业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "P",
+      "name": "P",
+      "industry": "电脑硬件、储存设备及电脑周边",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PANW",
+      "name": "派拓网络",
+      "industry": "通信设备",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PAYX",
+      "name": "沛齐",
+      "industry": "数据处理与外包服务",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PCAR",
+      "name": "帕卡",
+      "industry": "建筑机械与重型运输设备",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PCG",
+      "name": "太平洋瓦电",
+      "industry": "电力公用事业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PDD",
+      "name": "拼多多",
+      "industry": "多品类零售",
+      "indexes": "纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PEG",
+      "name": "公务集团",
+      "industry": "复合型公用事业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PEP",
+      "name": "百事可乐",
+      "industry": "软饮料与不含酒精饮料",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PFE",
+      "name": "辉瑞",
+      "industry": "制药",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PFG",
+      "name": "信安金融",
+      "industry": "人寿与健康保险",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PG",
+      "name": "宝洁",
+      "industry": "居家用品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PGR",
+      "name": "美国前进保险公司",
+      "industry": "财产与意外伤害保险",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PH",
+      "name": "汉尼汾",
+      "industry": "工业机械、物料与部件",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PHM",
+      "name": "普得集团",
+      "industry": "住宅建筑",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PKG",
+      "name": "Packaging Corp of America",
+      "industry": "纸质和塑料包装产品及材料",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PLD",
+      "name": "Prologis Inc.",
+      "industry": "工业REIT",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PLTR",
+      "name": "PLTR",
+      "industry": "应用软件",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PM",
+      "name": "菲利普莫里斯",
+      "industry": "烟草",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PNC",
+      "name": "PNC金融",
+      "industry": "区域性银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PNR",
+      "name": "滨特尔",
+      "industry": "工业机械、物料与部件",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PNW",
+      "name": "品尼高西方资本品西资本",
+      "industry": "电力公用事业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PODD",
+      "name": "Insulet Corporation",
+      "industry": "医疗保健设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PPG",
+      "name": "PPG工业",
+      "industry": "特种化学制品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PPL",
+      "name": "宾州电力",
+      "industry": "电力公用事业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PRU",
+      "name": "保德信",
+      "industry": "人寿与健康保险",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PSA",
+      "name": "公共存储",
+      "industry": "其他专门REIT",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PSKY",
+      "name": "PSKY",
+      "industry": "电影与娱乐",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PSX",
+      "name": "菲利普66",
+      "industry": "石油与天然气的储存和运输",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PTC",
+      "name": "PTC Inc.",
+      "industry": "应用软件",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PWR",
+      "name": "广达公司",
+      "industry": "建筑与工程",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "PYPL",
+      "name": "贝宝",
+      "industry": "数据处理与外包服务",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "Q",
+      "name": "Q",
+      "industry": "半导体材料与设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "QCOM",
+      "name": "高通",
+      "industry": "通信设备",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "RCL",
+      "name": "皇家加勒比邮轮",
+      "industry": "酒店、度假村与豪华游轮",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "RDDT",
+      "name": "RDDT",
+      "industry": "数据处理与外包服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "REG",
+      "name": "Regency Centers Corp",
+      "industry": "零售REIT",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "REGN",
+      "name": "再生元制药",
+      "industry": "生物科技",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "RF",
+      "name": "地区金融",
+      "industry": "区域性银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "RJF",
+      "name": "瑞杰金融",
+      "industry": "投资银行业与经纪业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "RKLB",
+      "name": "RKLB",
+      "industry": "航天航空与国防",
+      "indexes": "纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "RL",
+      "name": "拉夫劳伦",
+      "industry": "服装、服饰与奢侈品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "RMD",
+      "name": "瑞思迈",
+      "industry": "医疗保健设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ROK",
+      "name": "罗克韦尔",
+      "industry": "电气部件与设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ROL",
+      "name": "Rollins Inc",
+      "industry": "环境与设施服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ROP",
+      "name": "儒博实业",
+      "industry": "工业集团企业",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ROST",
+      "name": "罗斯百货有限公司",
+      "industry": "服装零售",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "RSG",
+      "name": "共和服务",
+      "industry": "环境与设施服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "RTX",
+      "name": "RTX",
+      "industry": "航天航空与国防",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "RVTY",
+      "name": "RVTY",
+      "industry": "生命科学工具和服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "SBAC",
+      "name": "SBA通信公司",
+      "industry": "其他专门REIT",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "SBUX",
+      "name": "星巴克",
+      "industry": "餐馆",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "SCHW",
+      "name": "嘉信理财",
+      "industry": "投资银行业与经纪业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "SHOP",
+      "name": "SHOP",
+      "industry": "互联网服务与基础设施",
+      "indexes": "纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "SHW",
+      "name": "宣伟公司",
+      "industry": "特种化学制品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "SJM",
+      "name": "斯马克",
+      "industry": "包装食品与肉类",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "SLB",
+      "name": "斯伦贝谢",
+      "industry": "石油天然气设备与服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "SMCI",
+      "name": "超微电脑",
+      "industry": "电脑硬件、储存设备及电脑周边",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "SNA",
+      "name": "实耐宝",
+      "industry": "工业机械、物料与部件",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "SNDK",
+      "name": "闪迪",
+      "industry": "电脑硬件、储存设备及电脑周边",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "SNPS",
+      "name": "新思科技",
+      "industry": "应用软件",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "SO",
+      "name": "美国南方公司",
+      "industry": "电力公用事业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "SOLV",
+      "name": "SOLV",
+      "industry": "医疗保健设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "SPCX",
+      "name": "SpaceX",
+      "industry": "航天航空与国防",
+      "indexes": "纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "SPG",
+      "name": "西蒙地产",
+      "industry": "零售REIT",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "SPGI",
+      "name": "标普全球",
+      "industry": "特殊金融服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "SRE",
+      "name": "桑普拉能源",
+      "industry": "复合型公用事业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "STE",
+      "name": "思泰瑞医疗",
+      "industry": "生物科技",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "STLD",
+      "name": "Steel Dynamics",
+      "industry": "钢铁",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "STT",
+      "name": "道富",
+      "industry": "资产管理与托管银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "STX",
+      "name": "希捷",
+      "industry": "电脑硬件、储存设备及电脑周边",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "STZ",
+      "name": "星座",
+      "industry": "酿酒商与葡萄酒商",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "SW",
+      "name": "SW",
+      "industry": "纸质和塑料包装产品及材料",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "SWK",
+      "name": "美国史丹利公司",
+      "industry": "工业机械、物料与部件",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "SWKS",
+      "name": "思佳讯",
+      "industry": "半导体产品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "SYF",
+      "name": "SYF",
+      "industry": "消费信贷",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "SYK",
+      "name": "史赛克",
+      "industry": "医疗保健设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "SYY",
+      "name": "西思科公司",
+      "industry": "食品分销商",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "T",
+      "name": "美国电话电报",
+      "industry": "综合电信业务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TDG",
+      "name": "TransDigm",
+      "industry": "航天航空与国防",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TDY",
+      "name": "Teledyne Technologies Inc",
+      "industry": "航天航空与国防",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TECH",
+      "name": "Techne Corporation",
+      "industry": "生命科学工具和服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TEL",
+      "name": "泰科电子",
+      "industry": "电子制造服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TER",
+      "name": "泰瑞达",
+      "industry": "半导体材料与设备",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TFC",
+      "name": "TFC",
+      "industry": "区域性银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TGT",
+      "name": "塔吉特",
+      "industry": "多品类零售",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TJX",
+      "name": "TJX",
+      "industry": "服装零售",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TKO",
+      "name": "TKO",
+      "industry": "电影与娱乐",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TMO",
+      "name": "赛默飞世尔",
+      "industry": "生命科学工具和服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TMUS",
+      "name": "T MOBILE US INC",
+      "industry": "无线电信业务",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TPL",
+      "name": "Texas Pacific Land Trust Sub Sha",
+      "industry": "多领域控股",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TPR",
+      "name": "Tapestry Inc.",
+      "industry": "服装、服饰与奢侈品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TRGP",
+      "name": "Targa Resources Corp",
+      "industry": "石油与天然气的储存和运输",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TRI",
+      "name": "汤姆逊-路透",
+      "industry": "出版",
+      "indexes": "纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TRMB",
+      "name": "天宝导航",
+      "industry": "电子制造服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TROW",
+      "name": "罗派斯",
+      "industry": "资产管理与托管银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TRV",
+      "name": "旅行者财产险集团",
+      "industry": "财产与意外伤害保险",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TSCO",
+      "name": "拖拉机供应",
+      "industry": "其他专卖店",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TSLA",
+      "name": "特斯拉",
+      "industry": "汽车制造商",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TSN",
+      "name": "泰森食品",
+      "industry": "包装食品与肉类",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TT",
+      "name": "TT",
+      "industry": "工业机械、物料与部件",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TTWO",
+      "name": "TTWO",
+      "industry": "互动家庭娱乐",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TXN",
+      "name": "德州仪器",
+      "industry": "半导体产品",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TXT",
+      "name": "德事隆",
+      "industry": "航天航空与国防",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "TYL",
+      "name": "泰勒科技",
+      "industry": "应用软件",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "UAL",
+      "name": "联合大陆航空",
+      "industry": "客运航空公司",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "UBER",
+      "name": "优步",
+      "industry": "公路与铁路",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "UDR",
+      "name": "UDR不动产信托",
+      "industry": "多户住宅REIT",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "UHS",
+      "name": "Universal Health Services Inc Cl",
+      "industry": "保健护理产品经销商",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ULTA",
+      "name": "Ulta美容产品",
+      "industry": "其他专卖店",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "UNH",
+      "name": "联合健康",
+      "industry": "管理型保健护理",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "UNP",
+      "name": "联合太平洋",
+      "industry": "铁路",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "UPS",
+      "name": "联合包裹",
+      "industry": "航空货运与物流",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "URI",
+      "name": "联合租赁",
+      "industry": "贸易公司与经销商",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "USB",
+      "name": "合众银行",
+      "industry": "综合性银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "V",
+      "name": "维萨卡",
+      "industry": "数据处理与外包服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "VEEV",
+      "name": "Veeva Systems Inc. Class A",
+      "industry": "医疗保健技术",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "VICI",
+      "name": "VICI Properties Inc.",
+      "industry": "酒店及度假村REIT",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "VLO",
+      "name": "瓦莱罗能源",
+      "industry": "石油与天然气的炼制和营销",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "VLTO",
+      "name": "VLTO",
+      "industry": "半导体材料与设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "VMC",
+      "name": "火神材料",
+      "industry": "建筑材料",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "VMRK",
+      "name": "VMRK",
+      "industry": "多户住宅REIT",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "VRSK",
+      "name": "Verisk Analytics",
+      "industry": "调查和咨询服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "VRSN",
+      "name": "威瑞信",
+      "industry": "互联网服务与基础设施",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "VRT",
+      "name": "VRT",
+      "industry": "投资银行业与经纪业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "VRTX",
+      "name": "福泰制药",
+      "industry": "生物科技",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "VST",
+      "name": "VISTRA ENERGY CORP COM USD0.01",
+      "industry": "独立电力生产商与能源贸易商",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "VTR",
+      "name": "芬塔公司",
+      "industry": "其他专门REIT",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "VTRS",
+      "name": "VTRS",
+      "industry": "制药",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "VZ",
+      "name": "威讯",
+      "industry": "综合电信业务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "WAB",
+      "name": "美国西屋制动",
+      "industry": "建筑机械与重型运输设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "WAT",
+      "name": "沃特世",
+      "industry": "生命科学工具和服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "WBD",
+      "name": "WBD",
+      "industry": "广播",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "WDAY",
+      "name": "工时公司",
+      "industry": "应用软件",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "WDC",
+      "name": "西部数据",
+      "industry": "电脑硬件、储存设备及电脑周边",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "WEC",
+      "name": "威州能源",
+      "industry": "复合型公用事业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "WELL",
+      "name": "Welltower Inc.",
+      "industry": "其他专门REIT",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "WFC",
+      "name": "富国银行",
+      "industry": "综合性银行",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "WM",
+      "name": "美国废物管理",
+      "industry": "环境与设施服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "WMB",
+      "name": "威廉姆斯",
+      "industry": "石油与天然气的储存和运输",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "WMT",
+      "name": "沃尔玛",
+      "industry": "日常消费品零售",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "WRB",
+      "name": "W.R Berkley Corp",
+      "industry": "财产与意外伤害保险",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "WSM",
+      "name": "Williams-Sonoma Inc",
+      "industry": "家庭装饰零售",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "WST",
+      "name": "西氏医药服务",
+      "industry": "医疗保健用品",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "WTW",
+      "name": "慧俪轻体",
+      "industry": "保险经纪商",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "WY",
+      "name": "惠好",
+      "industry": "其他专门REIT",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "WYNN",
+      "name": "永利",
+      "industry": "赌场与赌博",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "XEL",
+      "name": "卓越能源",
+      "industry": "电力公用事业",
+      "indexes": "标普500 / 纳斯达克100",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "XOM",
+      "name": "埃克森美孚",
+      "industry": "综合性石油与天然气企业",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "XYL",
+      "name": "赛莱默",
+      "industry": "工业机械、物料与部件",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "XYZ",
+      "name": "XYZ",
+      "industry": "综合金融服务",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "YUM",
+      "name": "百胜餐饮集团",
+      "industry": "餐馆",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ZBH",
+      "name": "Zimmer Biomet Holdings Inc",
+      "industry": "医疗保健设备",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ZBRA",
+      "name": "斑马技术",
+      "industry": "电脑硬件、储存设备及电脑周边",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    },
+    {
+      "symbol": "ZTS",
+      "name": "硕腾",
+      "industry": "制药",
+      "indexes": "标普500",
+      "board": "",
+      "market": "us",
+      "group": "us"
+    }
+  ],
+  "fetched_at": "2026-09-29 12:43"
+}

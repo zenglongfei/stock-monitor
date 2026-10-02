@@ -1,0 +1,7654 @@
+{
+  "market": "cn",
+  "names": [
+    "中证红利",
+    "中证A500",
+    "中证500"
+  ],
+  "source": "csi",
+  "industries": 3,
+  "items": [
+    {
+      "symbol": "000001",
+      "name": "平安银行",
+      "industry": "银行",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000002",
+      "name": "万科A",
+      "industry": "房地产开发",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000009",
+      "name": "中国宝安",
+      "industry": "综合",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000021",
+      "name": "深科技",
+      "industry": "计算机硬件",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000027",
+      "name": "深圳能源",
+      "industry": "电力",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000032",
+      "name": "深桑达A",
+      "industry": "建筑施工",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000034",
+      "name": "神州数码",
+      "industry": "计算机软件",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000035",
+      "name": "中国天楹",
+      "industry": "环保",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000039",
+      "name": "中集集团",
+      "industry": "其他交运设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000050",
+      "name": "深天马A",
+      "industry": "电子器件",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000060",
+      "name": "中金岭南",
+      "industry": "基本金属",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000062",
+      "name": "深圳华强",
+      "industry": "电子元件",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000063",
+      "name": "中兴通讯",
+      "industry": "通信设备",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000066",
+      "name": "中国长城",
+      "industry": "计算机硬件",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000069",
+      "name": "华侨城A",
+      "industry": "休闲服务",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000088",
+      "name": "盐田港",
+      "industry": "港口航运",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000090",
+      "name": "天健集团",
+      "industry": "建筑施工",
+      "indexes": "中证红利",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000100",
+      "name": "TCL科技",
+      "industry": "电子元件",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000155",
+      "name": "川能动力",
+      "industry": "电力",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000157",
+      "name": "中联重科",
+      "industry": "专用设备",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000301",
+      "name": "东方盛虹",
+      "industry": "石油天然气",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000333",
+      "name": "美的集团",
+      "industry": "白色家电",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000338",
+      "name": "潍柴动力",
+      "industry": "汽车",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000400",
+      "name": "许继电气",
+      "industry": "输变电设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000408",
+      "name": "藏格矿业",
+      "industry": "化肥农药",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000415",
+      "name": "渤海租赁",
+      "industry": "非银行金融",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000423",
+      "name": "东阿阿胶",
+      "industry": "中药生产",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000425",
+      "name": "徐工机械",
+      "industry": "专用设备",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000426",
+      "name": "兴业银锡",
+      "industry": "基本金属",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000429",
+      "name": "粤高速A",
+      "industry": "公路铁路",
+      "indexes": "中证红利 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000513",
+      "name": "丽珠集团",
+      "industry": "化学制药",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000519",
+      "name": "中兵红箭",
+      "industry": "地面装备",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000528",
+      "name": "柳工",
+      "industry": "专用设备",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000537",
+      "name": "绿发电力",
+      "industry": "电力",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000538",
+      "name": "云南白药",
+      "industry": "中药生产",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000539",
+      "name": "粤电力A",
+      "industry": "电力",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000547",
+      "name": "航天发展",
+      "industry": "地面装备",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000559",
+      "name": "万向钱潮",
+      "industry": "汽车",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000568",
+      "name": "泸州老窖",
+      "industry": "饮料",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000582",
+      "name": "北部湾港",
+      "industry": "港口航运",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000591",
+      "name": "太阳能",
+      "industry": "电源设备",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000598",
+      "name": "兴蓉环境",
+      "industry": "水务",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000617",
+      "name": "中油资本",
+      "industry": "非银行金融",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000623",
+      "name": "吉林敖东",
+      "industry": "中药生产",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000625",
+      "name": "长安汽车",
+      "industry": "汽车",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000629",
+      "name": "钒钛股份",
+      "industry": "稀有金属",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000630",
+      "name": "铜陵有色",
+      "industry": "基本金属",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000651",
+      "name": "格力电器",
+      "industry": "白色家电",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000657",
+      "name": "中钨高新",
+      "industry": "稀有金属",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000661",
+      "name": "长春高新",
+      "industry": "生物医药",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000672",
+      "name": "上峰材料",
+      "industry": "水泥",
+      "indexes": "中证红利",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000683",
+      "name": "博源化工",
+      "industry": "化学原料",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000703",
+      "name": "恒逸石化",
+      "industry": "合成纤维及树脂",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000709",
+      "name": "河钢股份",
+      "industry": "钢铁",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000723",
+      "name": "美锦能源",
+      "industry": "煤炭",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000725",
+      "name": "京东方A",
+      "industry": "电子器件",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000728",
+      "name": "国元证券",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000729",
+      "name": "燕京啤酒",
+      "industry": "饮料",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000733",
+      "name": "振华科技",
+      "industry": "电子元件",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000737",
+      "name": "北方铜业",
+      "industry": "基本金属",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000738",
+      "name": "航发控制",
+      "industry": "航空航天装备",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000739",
+      "name": "普洛药业",
+      "industry": "化学制药",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000750",
+      "name": "国海证券",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000768",
+      "name": "中航西飞",
+      "industry": "航空航天装备",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000783",
+      "name": "长江证券",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000785",
+      "name": "居然智家",
+      "industry": "商业物业经营",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000786",
+      "name": "北新建材",
+      "industry": "其他建材",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000792",
+      "name": "盐湖股份",
+      "industry": "化肥农药",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000800",
+      "name": "一汽解放",
+      "industry": "汽车",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000807",
+      "name": "云铝股份",
+      "industry": "基本金属",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000825",
+      "name": "太钢不锈",
+      "industry": "钢铁",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000830",
+      "name": "鲁西化工",
+      "industry": "化学新材料",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000831",
+      "name": "中国稀土",
+      "industry": "稀有金属",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000833",
+      "name": "粤桂股份",
+      "industry": "综合",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000858",
+      "name": "五粮液",
+      "industry": "饮料",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000878",
+      "name": "云南铜业",
+      "industry": "基本金属",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000883",
+      "name": "湖北能源",
+      "industry": "电力",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000887",
+      "name": "中鼎股份",
+      "industry": "汽车",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000893",
+      "name": "亚钾国际",
+      "industry": "化肥农药",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000895",
+      "name": "双汇发展",
+      "industry": "食品",
+      "indexes": "中证红利",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000898",
+      "name": "鞍钢股份",
+      "industry": "钢铁",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000921",
+      "name": "海信家电",
+      "industry": "白色家电",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000932",
+      "name": "华菱钢铁",
+      "industry": "钢铁",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000933",
+      "name": "神火股份",
+      "industry": "基本金属",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000937",
+      "name": "冀中能源",
+      "industry": "煤炭",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000938",
+      "name": "紫光股份",
+      "industry": "计算机软件",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000951",
+      "name": "中国重汽",
+      "industry": "汽车",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000959",
+      "name": "首钢股份",
+      "industry": "钢铁",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000960",
+      "name": "锡业股份",
+      "industry": "基本金属",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000963",
+      "name": "华东医药",
+      "industry": "医药商业",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000967",
+      "name": "盈峰环境",
+      "industry": "专用设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000975",
+      "name": "山金国际",
+      "industry": "贵金属",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000977",
+      "name": "浪潮信息",
+      "industry": "计算机硬件",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000983",
+      "name": "山西焦煤",
+      "industry": "煤炭",
+      "indexes": "中证红利 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000987",
+      "name": "越秀资本",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000988",
+      "name": "华工科技",
+      "industry": "电子设备制造",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000997",
+      "name": "新大陆",
+      "industry": "电子设备制造",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000998",
+      "name": "隆平高科",
+      "industry": "农业",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "000999",
+      "name": "华润三九",
+      "industry": "化学制药",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "001203",
+      "name": "大中矿业",
+      "industry": "铁矿石",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "001221",
+      "name": "悍高集团",
+      "industry": "金属制品",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "001286",
+      "name": "陕西能源",
+      "industry": "电力",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "001309",
+      "name": "德明利",
+      "industry": "半导体",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "001386",
+      "name": "马可波罗",
+      "industry": "陶瓷",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "001389",
+      "name": "广合科技",
+      "industry": "电子元件",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "001696",
+      "name": "宗申动力",
+      "industry": "汽车",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "001965",
+      "name": "招商公路",
+      "industry": "公路铁路",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "001979",
+      "name": "招商蛇口",
+      "industry": "房地产开发",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002001",
+      "name": "新和成",
+      "industry": "保健护理",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002007",
+      "name": "华兰生物",
+      "industry": "生物医药",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002008",
+      "name": "大族激光",
+      "industry": "电子设备制造",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002025",
+      "name": "航天电器",
+      "industry": "电子元件",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002027",
+      "name": "分众传媒",
+      "industry": "互联网服务",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002028",
+      "name": "思源电气",
+      "industry": "输变电设备",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002032",
+      "name": "苏泊尔",
+      "industry": "小家电",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002043",
+      "name": "兔宝宝",
+      "industry": "其他建材",
+      "indexes": "中证红利",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002044",
+      "name": "美年健康",
+      "industry": "医疗服务",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002049",
+      "name": "紫光国微",
+      "industry": "半导体",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002050",
+      "name": "三花智控",
+      "industry": "通用设备",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002056",
+      "name": "横店东磁",
+      "industry": "电子器件",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002064",
+      "name": "华峰化学",
+      "industry": "合成纤维及树脂",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002065",
+      "name": "东华软件",
+      "industry": "计算机软件",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002074",
+      "name": "国轩高科",
+      "industry": "电源设备",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002078",
+      "name": "太阳纸业",
+      "industry": "造纸印刷",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002080",
+      "name": "中材科技",
+      "industry": "合成纤维及树脂",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002085",
+      "name": "万丰奥威",
+      "industry": "汽车",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002091",
+      "name": "江苏国泰",
+      "industry": "贸易",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002120",
+      "name": "韵达股份",
+      "industry": "物流",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002126",
+      "name": "银轮股份",
+      "industry": "汽车",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002128",
+      "name": "电投能源",
+      "industry": "煤炭",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002129",
+      "name": "TCL中环",
+      "industry": "电源设备",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002130",
+      "name": "沃尔核材",
+      "industry": "电子器件",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002131",
+      "name": "利欧股份",
+      "industry": "营销服务",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002138",
+      "name": "顺络电子",
+      "industry": "电子元件",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002152",
+      "name": "广电运通",
+      "industry": "计算机硬件",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002153",
+      "name": "石基信息",
+      "industry": "计算机软件",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002154",
+      "name": "报喜鸟",
+      "industry": "服装家纺",
+      "indexes": "中证红利",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002155",
+      "name": "湖南黄金",
+      "industry": "贵金属",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002156",
+      "name": "通富微电",
+      "industry": "半导体",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002157",
+      "name": "正邦科技",
+      "industry": "畜牧业",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002176",
+      "name": "江特电机",
+      "industry": "电机",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002179",
+      "name": "中航光电",
+      "industry": "电子设备制造",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002185",
+      "name": "华天科技",
+      "industry": "半导体",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002195",
+      "name": "岩山科技",
+      "industry": "互联网服务",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002202",
+      "name": "金风科技",
+      "industry": "电源设备",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002203",
+      "name": "海亮股份",
+      "industry": "基本金属",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002223",
+      "name": "鱼跃医疗",
+      "industry": "医疗器械",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002230",
+      "name": "科大讯飞",
+      "industry": "计算机软件",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002233",
+      "name": "塔牌集团",
+      "industry": "水泥",
+      "indexes": "中证红利",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002236",
+      "name": "大华股份",
+      "industry": "计算机硬件",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002241",
+      "name": "歌尔股份",
+      "industry": "电子设备制造",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002244",
+      "name": "滨江集团",
+      "industry": "房地产开发",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002252",
+      "name": "上海莱士",
+      "industry": "生物医药",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002261",
+      "name": "拓维信息",
+      "industry": "计算机软件",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002262",
+      "name": "恩华药业",
+      "industry": "化学制药",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002265",
+      "name": "建设工业",
+      "industry": "地面装备",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002266",
+      "name": "浙富控股",
+      "industry": "环保",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002267",
+      "name": "陕天然气",
+      "industry": "燃气",
+      "indexes": "中证红利",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002271",
+      "name": "东方雨虹",
+      "industry": "其他建材",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002273",
+      "name": "水晶光电",
+      "industry": "光电子器件",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002281",
+      "name": "光迅科技",
+      "industry": "通信设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002292",
+      "name": "奥飞娱乐",
+      "industry": "影视动漫",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002294",
+      "name": "信立泰",
+      "industry": "化学制药",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002299",
+      "name": "圣农发展",
+      "industry": "食品",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002312",
+      "name": "川发龙蟒",
+      "industry": "化学原料",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002318",
+      "name": "久立特材",
+      "industry": "钢铁",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002335",
+      "name": "科华数据",
+      "industry": "电源设备",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002340",
+      "name": "格林美",
+      "industry": "电源设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002352",
+      "name": "顺丰控股",
+      "industry": "物流",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002353",
+      "name": "杰瑞股份",
+      "industry": "石油天然气",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002371",
+      "name": "北方华创",
+      "industry": "半导体",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002384",
+      "name": "东山精密",
+      "industry": "电子器件",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002389",
+      "name": "航天彩虹",
+      "industry": "航空航天装备",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002402",
+      "name": "和而泰",
+      "industry": "电子设备制造",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002405",
+      "name": "四维图新",
+      "industry": "计算机软件",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002407",
+      "name": "多氟多",
+      "industry": "化学新材料",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002409",
+      "name": "雅克科技",
+      "industry": "半导体",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002410",
+      "name": "广联达",
+      "industry": "计算机软件",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002414",
+      "name": "高德红外",
+      "industry": "电子设备制造",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002415",
+      "name": "海康威视",
+      "industry": "计算机硬件",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002416",
+      "name": "爱施德",
+      "industry": "消费电子设备",
+      "indexes": "中证红利",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002422",
+      "name": "科伦药业",
+      "industry": "化学制药",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002423",
+      "name": "中粮资本",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002429",
+      "name": "兆驰股份",
+      "industry": "视听器材",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002430",
+      "name": "杭氧股份",
+      "industry": "环保",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002432",
+      "name": "九安医疗",
+      "industry": "医疗器械",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002436",
+      "name": "兴森科技",
+      "industry": "电子元件",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002444",
+      "name": "巨星科技",
+      "industry": "金属制品",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002456",
+      "name": "欧菲光",
+      "industry": "光电子器件",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002459",
+      "name": "晶澳科技",
+      "industry": "电源设备",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002460",
+      "name": "赣锋锂业",
+      "industry": "稀有金属",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002461",
+      "name": "珠江啤酒",
+      "industry": "饮料",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002463",
+      "name": "沪电股份",
+      "industry": "电子元件",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002465",
+      "name": "海格通信",
+      "industry": "通信设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002466",
+      "name": "天齐锂业",
+      "industry": "稀有金属",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002472",
+      "name": "双环传动",
+      "industry": "汽车",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002475",
+      "name": "立讯精密",
+      "industry": "消费电子设备",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002487",
+      "name": "大金重工",
+      "industry": "金属制品",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002493",
+      "name": "荣盛石化",
+      "industry": "石油天然气",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002497",
+      "name": "雅化集团",
+      "industry": "稀有金属",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002500",
+      "name": "山西证券",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002508",
+      "name": "老板电器",
+      "industry": "小家电",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002517",
+      "name": "恺英网络",
+      "industry": "互联网服务",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002532",
+      "name": "天山铝业",
+      "industry": "基本金属",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002540",
+      "name": "亚太科技",
+      "industry": "金属非金属新材料",
+      "indexes": "中证红利",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002544",
+      "name": "普天科技",
+      "industry": "通信设备",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002555",
+      "name": "三七互娱",
+      "industry": "互联网服务",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002558",
+      "name": "巨人网络",
+      "industry": "互联网服务",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002563",
+      "name": "森马服饰",
+      "industry": "服装家纺",
+      "indexes": "中证红利",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002568",
+      "name": "百润股份",
+      "industry": "饮料",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002572",
+      "name": "索菲亚",
+      "industry": "家具",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002583",
+      "name": "海能达",
+      "industry": "通信设备",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002594",
+      "name": "比亚迪",
+      "industry": "汽车",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002595",
+      "name": "豪迈科技",
+      "industry": "专用设备",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002600",
+      "name": "领益智造",
+      "industry": "电子元件",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002601",
+      "name": "龙佰集团",
+      "industry": "化学制品",
+      "indexes": "中证红利 / 中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002602",
+      "name": "世纪华通",
+      "industry": "互联网服务",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002603",
+      "name": "以岭药业",
+      "industry": "中药生产",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002607",
+      "name": "中公教育",
+      "industry": "教育",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002608",
+      "name": "江苏国信",
+      "industry": "电力",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002624",
+      "name": "完美世界",
+      "industry": "互联网服务",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002625",
+      "name": "光启技术",
+      "industry": "航空航天装备",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002648",
+      "name": "卫星化学",
+      "industry": "化学原料",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002670",
+      "name": "国盛证券",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002673",
+      "name": "西部证券",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002683",
+      "name": "广东宏大",
+      "industry": "化学制品",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002709",
+      "name": "天赐材料",
+      "industry": "金属非金属新材料",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002714",
+      "name": "牧原股份",
+      "industry": "畜牧业",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002737",
+      "name": "葵花药业",
+      "industry": "中药生产",
+      "indexes": "中证红利",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002738",
+      "name": "中矿资源",
+      "industry": "稀有金属",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002739",
+      "name": "儒意电影",
+      "industry": "影视动漫",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002756",
+      "name": "永兴材料",
+      "industry": "稀有金属",
+      "indexes": "中证红利 / 中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002773",
+      "name": "康弘药业",
+      "industry": "化学制药",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002797",
+      "name": "第一创业",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002812",
+      "name": "恩捷股份",
+      "industry": "金属非金属新材料",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002821",
+      "name": "凯莱英",
+      "industry": "化学制药",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002831",
+      "name": "裕同科技",
+      "industry": "造纸印刷",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002837",
+      "name": "英维克",
+      "industry": "专用设备",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002841",
+      "name": "视源股份",
+      "industry": "电子元件",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002850",
+      "name": "科达利",
+      "industry": "金属制品",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002851",
+      "name": "麦格米特",
+      "industry": "其他电气设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002867",
+      "name": "周大生",
+      "industry": "珠宝首饰",
+      "indexes": "中证红利",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002891",
+      "name": "中宠股份",
+      "industry": "食品",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002916",
+      "name": "深南电路",
+      "industry": "电子元件",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002920",
+      "name": "德赛西威",
+      "industry": "汽车",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002926",
+      "name": "华西证券",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002938",
+      "name": "鹏鼎控股",
+      "industry": "电子元件",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002939",
+      "name": "长城证券",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002945",
+      "name": "华林证券",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002966",
+      "name": "苏州银行",
+      "industry": "银行",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "002984",
+      "name": "森麒麟",
+      "industry": "橡胶制品",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "003021",
+      "name": "兆威机电",
+      "industry": "专用设备",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "003022",
+      "name": "联泓新科",
+      "industry": "化学新材料",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "003031",
+      "name": "中瓷电子",
+      "industry": "电子设备制造",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "003035",
+      "name": "南网能源",
+      "industry": "专业服务",
+      "indexes": "中证500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "003816",
+      "name": "中国广核",
+      "industry": "电力",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300001",
+      "name": "特锐德",
+      "industry": "输变电设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300002",
+      "name": "神州泰岳",
+      "industry": "互联网服务",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300003",
+      "name": "乐普医疗",
+      "industry": "医疗器械",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300012",
+      "name": "华测检测",
+      "industry": "专业服务",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300014",
+      "name": "亿纬锂能",
+      "industry": "电源设备",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300015",
+      "name": "爱尔眼科",
+      "industry": "医疗服务",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300017",
+      "name": "网宿科技",
+      "industry": "互联网技术",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300024",
+      "name": "机器人",
+      "industry": "机器人",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300033",
+      "name": "同花顺",
+      "industry": "互联网金融",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300037",
+      "name": "新宙邦",
+      "industry": "化学制品",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300049",
+      "name": "福瑞医科",
+      "industry": "医疗器械",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300054",
+      "name": "鼎龙股份",
+      "industry": "半导体",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300058",
+      "name": "蓝色光标",
+      "industry": "营销服务",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300059",
+      "name": "东方财富",
+      "industry": "互联网金融",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300070",
+      "name": "碧水源",
+      "industry": "环保",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300073",
+      "name": "当升科技",
+      "industry": "金属非金属新材料",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300083",
+      "name": "创世纪",
+      "industry": "通用设备",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300100",
+      "name": "双林股份",
+      "industry": "汽车",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300115",
+      "name": "长盈精密",
+      "industry": "电子器件",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300118",
+      "name": "东方日升",
+      "industry": "电源设备",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300122",
+      "name": "智飞生物",
+      "industry": "生物医药",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300124",
+      "name": "汇川技术",
+      "industry": "机器人",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300136",
+      "name": "信维通信",
+      "industry": "电子设备制造",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300140",
+      "name": "节能环境",
+      "industry": "环保",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300142",
+      "name": "沃森生物",
+      "industry": "生物医药",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300144",
+      "name": "宋城演艺",
+      "industry": "休闲服务",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300146",
+      "name": "汤臣倍健",
+      "industry": "食品",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300207",
+      "name": "欣旺达",
+      "industry": "电子设备制造",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300223",
+      "name": "君正股份",
+      "industry": "半导体",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300251",
+      "name": "光线传媒",
+      "industry": "影视动漫",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300274",
+      "name": "阳光电源",
+      "industry": "电源设备",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300285",
+      "name": "国瓷材料",
+      "industry": "化学新材料",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300308",
+      "name": "中际旭创",
+      "industry": "通信设备",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300316",
+      "name": "晶盛机电",
+      "industry": "电源设备",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300339",
+      "name": "润和软件",
+      "industry": "计算机软件",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300342",
+      "name": "天银机电",
+      "industry": "白色家电",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300346",
+      "name": "南大光电",
+      "industry": "半导体",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300347",
+      "name": "泰格医药",
+      "industry": "医疗服务",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300373",
+      "name": "扬杰科技",
+      "industry": "半导体",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300383",
+      "name": "光环新网",
+      "industry": "互联网技术",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300390",
+      "name": "天华新能",
+      "industry": "金属非金属新材料",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300394",
+      "name": "天孚通信",
+      "industry": "光电子器件",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300395",
+      "name": "菲利华",
+      "industry": "金属非金属新材料",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300408",
+      "name": "三环集团",
+      "industry": "电子元件",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300409",
+      "name": "道氏技术",
+      "industry": "基本金属",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300418",
+      "name": "昆仑万维",
+      "industry": "互联网服务",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300432",
+      "name": "富临精工",
+      "industry": "金属非金属新材料",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300433",
+      "name": "蓝思科技",
+      "industry": "电子设备制造",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300438",
+      "name": "鹏辉能源",
+      "industry": "电源设备",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300442",
+      "name": "润泽科技",
+      "industry": "通信运营",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300450",
+      "name": "先导智能",
+      "industry": "通用设备",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300454",
+      "name": "深信服",
+      "industry": "计算机软件",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300457",
+      "name": "赢合科技",
+      "industry": "专用设备",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300458",
+      "name": "全志科技",
+      "industry": "半导体",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300474",
+      "name": "景嘉微",
+      "industry": "电子设备制造",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300475",
+      "name": "香农芯创",
+      "industry": "电子元件",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300476",
+      "name": "胜宏科技",
+      "industry": "电子元件",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300487",
+      "name": "蓝晓科技",
+      "industry": "化学制品",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300496",
+      "name": "中科创达",
+      "industry": "计算机软件",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300502",
+      "name": "新易盛",
+      "industry": "通信设备",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300548",
+      "name": "长芯博创",
+      "industry": "通信设备",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300558",
+      "name": "贝达药业",
+      "industry": "化学制药",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300567",
+      "name": "精测电子",
+      "industry": "通用设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300568",
+      "name": "星源材质",
+      "industry": "金属非金属新材料",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300570",
+      "name": "太辰光",
+      "industry": "通信设备",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300573",
+      "name": "兴齐眼药",
+      "industry": "化学制药",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300601",
+      "name": "康泰生物",
+      "industry": "生物医药",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300604",
+      "name": "长川科技",
+      "industry": "半导体",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300620",
+      "name": "光库科技",
+      "industry": "通信设备",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300623",
+      "name": "捷捷微电",
+      "industry": "半导体",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300627",
+      "name": "华测导航",
+      "industry": "通信设备",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300661",
+      "name": "圣邦股份",
+      "industry": "半导体",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300666",
+      "name": "江丰电子",
+      "industry": "半导体",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300676",
+      "name": "华大基因",
+      "industry": "生物医药",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300677",
+      "name": "英科医疗",
+      "industry": "医疗器械",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300679",
+      "name": "电连技术",
+      "industry": "电子器件",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300699",
+      "name": "光威复材",
+      "industry": "合成纤维及树脂",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300718",
+      "name": "长盛轴承",
+      "industry": "通用设备",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300724",
+      "name": "捷佳伟创",
+      "industry": "电源设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300735",
+      "name": "光弘科技",
+      "industry": "电子设备制造",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300748",
+      "name": "金力永磁",
+      "industry": "金属非金属新材料",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300750",
+      "name": "宁德时代",
+      "industry": "电源设备",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300751",
+      "name": "迈为股份",
+      "industry": "电源设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300757",
+      "name": "罗博特科",
+      "industry": "专用设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300759",
+      "name": "康龙化成",
+      "industry": "生物医药",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300760",
+      "name": "迈瑞医疗",
+      "industry": "医疗器械",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300763",
+      "name": "锦浪科技",
+      "industry": "输变电设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300782",
+      "name": "卓胜微",
+      "industry": "半导体",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300803",
+      "name": "指南针",
+      "industry": "互联网金融",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300832",
+      "name": "新产业",
+      "industry": "医疗器械",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300857",
+      "name": "协创数据",
+      "industry": "消费电子设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300866",
+      "name": "安克创新",
+      "industry": "消费电子设备",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300888",
+      "name": "稳健医疗",
+      "industry": "纺织",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300896",
+      "name": "爱美客",
+      "industry": "医疗器械",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300919",
+      "name": "中伟新材",
+      "industry": "金属非金属新材料",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300953",
+      "name": "震裕科技",
+      "industry": "专用设备",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300957",
+      "name": "贝泰妮",
+      "industry": "化学制品",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "300972",
+      "name": "万辰集团",
+      "industry": "零售",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "301078",
+      "name": "孩子王",
+      "industry": "零售",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "301109",
+      "name": "军信股份",
+      "industry": "环保",
+      "indexes": "中证红利",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "301200",
+      "name": "大族数控",
+      "industry": "专用设备",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "301236",
+      "name": "软通动力",
+      "industry": "计算机软件",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "301301",
+      "name": "川宁生物",
+      "industry": "生物医药",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "301308",
+      "name": "江波龙",
+      "industry": "电子设备制造",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "301358",
+      "name": "湖南裕能",
+      "industry": "金属非金属新材料",
+      "indexes": "中证A500 / 中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "301377",
+      "name": "鼎泰高科",
+      "industry": "金属制品",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "301498",
+      "name": "乖宝宠物",
+      "industry": "食品",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "301526",
+      "name": "国际复材",
+      "industry": "合成纤维及树脂",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "301536",
+      "name": "星宸科技",
+      "industry": "半导体",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "301550",
+      "name": "斯菱智驱",
+      "industry": "汽车",
+      "indexes": "中证A500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "301606",
+      "name": "绿联科技",
+      "industry": "消费电子设备",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "301611",
+      "name": "珂玛科技",
+      "industry": "半导体",
+      "indexes": "中证500",
+      "board": "CY",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "302132",
+      "name": "中航成飞",
+      "industry": "航空航天装备",
+      "indexes": "中证A500",
+      "board": "SZ",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600000",
+      "name": "浦发银行",
+      "industry": "银行",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600004",
+      "name": "白云机场",
+      "industry": "航空机场",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600008",
+      "name": "首创环保",
+      "industry": "水务",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600009",
+      "name": "上海机场",
+      "industry": "航空机场",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600010",
+      "name": "包钢股份",
+      "industry": "钢铁",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600011",
+      "name": "华能国际",
+      "industry": "电力",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600012",
+      "name": "皖通高速",
+      "industry": "公路铁路",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600015",
+      "name": "华夏银行",
+      "industry": "银行",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600016",
+      "name": "民生银行",
+      "industry": "银行",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600018",
+      "name": "上港集团",
+      "industry": "港口航运",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600019",
+      "name": "宝钢股份",
+      "industry": "钢铁",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600021",
+      "name": "上海电力",
+      "industry": "电力",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600026",
+      "name": "中远海能",
+      "industry": "港口航运",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600028",
+      "name": "中国石化",
+      "industry": "石油天然气",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600029",
+      "name": "南方航空",
+      "industry": "航空机场",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600030",
+      "name": "中信证券",
+      "industry": "非银行金融",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600031",
+      "name": "三一重工",
+      "industry": "专用设备",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600032",
+      "name": "浙江新能",
+      "industry": "电力",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600036",
+      "name": "招商银行",
+      "industry": "银行",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600038",
+      "name": "中直股份",
+      "industry": "航空航天装备",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600039",
+      "name": "四川路桥",
+      "industry": "建筑施工",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600048",
+      "name": "保利发展",
+      "industry": "房地产开发",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600050",
+      "name": "中国联通",
+      "industry": "通信运营",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600057",
+      "name": "厦门象屿",
+      "industry": "物流",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600060",
+      "name": "海信视像",
+      "industry": "视听器材",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600062",
+      "name": "华润双鹤",
+      "industry": "化学制药",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600064",
+      "name": "南京高科",
+      "industry": "房地产开发",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600066",
+      "name": "宇通客车",
+      "industry": "汽车",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600085",
+      "name": "同仁堂",
+      "industry": "中药生产",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600089",
+      "name": "特变电工",
+      "industry": "输变电设备",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600095",
+      "name": "湘财股份",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600096",
+      "name": "云天化",
+      "industry": "化肥农药",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600098",
+      "name": "广州发展",
+      "industry": "电力",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600100",
+      "name": "同方股份",
+      "industry": "电子设备制造",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600104",
+      "name": "上汽集团",
+      "industry": "汽车",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600105",
+      "name": "永鼎股份",
+      "industry": "通信设备",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600109",
+      "name": "国金证券",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600111",
+      "name": "北方稀土",
+      "industry": "稀有金属",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600115",
+      "name": "中国东航",
+      "industry": "航空机场",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600118",
+      "name": "中国卫星",
+      "industry": "航空航天装备",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600123",
+      "name": "兰花科创",
+      "industry": "煤炭",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600126",
+      "name": "杭钢股份",
+      "industry": "钢铁",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600131",
+      "name": "国网信通",
+      "industry": "通信运营",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600132",
+      "name": "重庆啤酒",
+      "industry": "饮料",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600141",
+      "name": "兴发集团",
+      "industry": "化学原料",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600143",
+      "name": "金发科技",
+      "industry": "化学新材料",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600150",
+      "name": "中国船舶",
+      "industry": "船舶与海洋装备",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600153",
+      "name": "建发股份",
+      "industry": "物流",
+      "indexes": "中证红利 / 中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600157",
+      "name": "永泰能源",
+      "industry": "电力",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600160",
+      "name": "巨化股份",
+      "industry": "化学原料",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600161",
+      "name": "天坛生物",
+      "industry": "生物医药",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600166",
+      "name": "福田汽车",
+      "industry": "汽车",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600170",
+      "name": "上海建工",
+      "industry": "建筑施工",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600171",
+      "name": "上海贝岭",
+      "industry": "半导体",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600176",
+      "name": "中国巨石",
+      "industry": "合成纤维及树脂",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600177",
+      "name": "雅戈尔",
+      "industry": "服装家纺",
+      "indexes": "中证红利 / 中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600183",
+      "name": "生益科技",
+      "industry": "电子元件",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600188",
+      "name": "兖矿能源",
+      "industry": "煤炭",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600196",
+      "name": "复星医药",
+      "industry": "生物医药",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600208",
+      "name": "衢州发展",
+      "industry": "房地产开发",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600219",
+      "name": "南山铝业",
+      "industry": "基本金属",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600221",
+      "name": "海航控股",
+      "industry": "航空机场",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600226",
+      "name": "亨通股份",
+      "industry": "电力",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600233",
+      "name": "圆通速递",
+      "industry": "物流",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600256",
+      "name": "广汇能源",
+      "industry": "石油天然气",
+      "indexes": "中证红利 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600258",
+      "name": "首旅酒店",
+      "industry": "休闲服务",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600273",
+      "name": "嘉化能源",
+      "industry": "化学制品",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600276",
+      "name": "恒瑞医药",
+      "industry": "化学制药",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600282",
+      "name": "南钢股份",
+      "industry": "钢铁",
+      "indexes": "中证红利 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600292",
+      "name": "电投水电",
+      "industry": "电力",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600295",
+      "name": "鄂尔多斯",
+      "industry": "铁矿石",
+      "indexes": "中证红利 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600298",
+      "name": "安琪酵母",
+      "industry": "食品",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600299",
+      "name": "安迪苏",
+      "industry": "畜牧业",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600309",
+      "name": "万华化学",
+      "industry": "化学原料",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600312",
+      "name": "平高电气",
+      "industry": "输变电设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600316",
+      "name": "洪都航空",
+      "industry": "航空航天装备",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600323",
+      "name": "瀚蓝环境",
+      "industry": "环保",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600325",
+      "name": "华发股份",
+      "industry": "房地产开发",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600329",
+      "name": "达仁堂",
+      "industry": "中药生产",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600332",
+      "name": "白云山",
+      "industry": "医药商业",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600339",
+      "name": "中油工程",
+      "industry": "石油天然气",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600346",
+      "name": "恒力石化",
+      "industry": "石油天然气",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600348",
+      "name": "华阳股份",
+      "industry": "煤炭",
+      "indexes": "中证红利 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600350",
+      "name": "山东高速",
+      "industry": "公路铁路",
+      "indexes": "中证红利 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600352",
+      "name": "浙江龙盛",
+      "industry": "化学制品",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600362",
+      "name": "江西铜业",
+      "industry": "基本金属",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600363",
+      "name": "联创光电",
+      "industry": "光电子器件",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600369",
+      "name": "西南证券",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600372",
+      "name": "中航机载",
+      "industry": "航空航天装备",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600373",
+      "name": "中文传媒",
+      "industry": "平面媒体",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600377",
+      "name": "宁沪高速",
+      "industry": "公路铁路",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600378",
+      "name": "昊华科技",
+      "industry": "化学制品",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600380",
+      "name": "健康元",
+      "industry": "化学制药",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600390",
+      "name": "五矿资本",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600392",
+      "name": "盛和资源",
+      "industry": "稀有金属",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600398",
+      "name": "海澜之家",
+      "industry": "服装家纺",
+      "indexes": "中证红利 / 中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600406",
+      "name": "国电南瑞",
+      "industry": "输变电设备",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600415",
+      "name": "小商品城",
+      "industry": "贸易",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600418",
+      "name": "江淮汽车",
+      "industry": "汽车",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600426",
+      "name": "华鲁恒升",
+      "industry": "化肥农药",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600435",
+      "name": "北方导航",
+      "industry": "地面装备",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600436",
+      "name": "片仔癀",
+      "industry": "中药生产",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600438",
+      "name": "通威股份",
+      "industry": "电源设备",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600460",
+      "name": "士兰微",
+      "industry": "半导体",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600461",
+      "name": "洪城环境",
+      "industry": "水务",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600482",
+      "name": "中国动力",
+      "industry": "船舶与海洋装备",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600483",
+      "name": "福能股份",
+      "industry": "电力",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600486",
+      "name": "扬农化工",
+      "industry": "化肥农药",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600487",
+      "name": "亨通光电",
+      "industry": "通信设备",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600489",
+      "name": "中金黄金",
+      "industry": "贵金属",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600497",
+      "name": "驰宏锌锗",
+      "industry": "基本金属",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600498",
+      "name": "烽火通信",
+      "industry": "通信设备",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600499",
+      "name": "科达制造",
+      "industry": "专用设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600502",
+      "name": "安徽建工",
+      "industry": "建筑施工",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600511",
+      "name": "国药股份",
+      "industry": "医药商业",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600515",
+      "name": "海南机场",
+      "industry": "航空机场",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600516",
+      "name": "方大炭素",
+      "industry": "金属非金属新材料",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600517",
+      "name": "国网英大",
+      "industry": "输变电设备",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600519",
+      "name": "贵州茅台",
+      "industry": "饮料",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600521",
+      "name": "华海药业",
+      "industry": "化学制药",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600522",
+      "name": "中天科技",
+      "industry": "通信设备",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600529",
+      "name": "山东药玻",
+      "industry": "医疗器械",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600535",
+      "name": "天士力",
+      "industry": "中药生产",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600536",
+      "name": "中国软件",
+      "industry": "计算机软件",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600546",
+      "name": "山煤国际",
+      "industry": "煤炭",
+      "indexes": "中证红利 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600547",
+      "name": "山东黄金",
+      "industry": "贵金属",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600549",
+      "name": "厦门钨业",
+      "industry": "稀有金属",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600562",
+      "name": "国睿科技",
+      "industry": "电子设备制造",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600563",
+      "name": "法拉电子",
+      "industry": "电子元件",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600566",
+      "name": "济川药业",
+      "industry": "化学制药",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600570",
+      "name": "恒生电子",
+      "industry": "计算机软件",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600578",
+      "name": "京能电力",
+      "industry": "电力",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600580",
+      "name": "卧龙电驱",
+      "industry": "电机",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600582",
+      "name": "天地科技",
+      "industry": "专用设备",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600583",
+      "name": "海油工程",
+      "industry": "石油天然气",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600584",
+      "name": "长电科技",
+      "industry": "半导体",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600585",
+      "name": "海螺水泥",
+      "industry": "水泥",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600588",
+      "name": "用友网络",
+      "industry": "互联网技术",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600595",
+      "name": "中孚实业",
+      "industry": "基本金属",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600598",
+      "name": "北大荒",
+      "industry": "农业",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600601",
+      "name": "方正科技",
+      "industry": "电子元件",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600602",
+      "name": "云赛智联",
+      "industry": "计算机软件",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600606",
+      "name": "绿地控股",
+      "industry": "房地产开发",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600635",
+      "name": "大众公用",
+      "industry": "燃气",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600637",
+      "name": "东方明珠",
+      "industry": "广播电视",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600642",
+      "name": "申能股份",
+      "industry": "电力",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600655",
+      "name": "豫园股份",
+      "industry": "零售",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600660",
+      "name": "福耀玻璃",
+      "industry": "汽车",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600663",
+      "name": "陆家嘴",
+      "industry": "房地产开发",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600667",
+      "name": "太极实业",
+      "industry": "建筑施工",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600673",
+      "name": "东阳光",
+      "industry": "综合",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600674",
+      "name": "川投能源",
+      "industry": "电力",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600685",
+      "name": "中船防务",
+      "industry": "船舶与海洋装备",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600688",
+      "name": "上海石化",
+      "industry": "石油天然气",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600690",
+      "name": "海尔智家",
+      "industry": "白色家电",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600699",
+      "name": "均胜电子",
+      "industry": "汽车",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600704",
+      "name": "物产中大",
+      "industry": "物流",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600707",
+      "name": "彩虹股份",
+      "industry": "电子器件",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600711",
+      "name": "盛屯矿业",
+      "industry": "基本金属",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600729",
+      "name": "重百集团",
+      "industry": "零售",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600737",
+      "name": "中粮糖业",
+      "industry": "农业",
+      "indexes": "中证红利 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600741",
+      "name": "华域汽车",
+      "industry": "汽车",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600754",
+      "name": "锦江酒店",
+      "industry": "休闲服务",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600755",
+      "name": "厦门国贸",
+      "industry": "贸易",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600757",
+      "name": "长江传媒",
+      "industry": "平面媒体",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600760",
+      "name": "中航沈飞",
+      "industry": "航空航天装备",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600763",
+      "name": "通策医疗",
+      "industry": "医疗服务",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600764",
+      "name": "中国海防",
+      "industry": "船舶与海洋装备",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600765",
+      "name": "中航重机",
+      "industry": "航空航天装备",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600795",
+      "name": "国电电力",
+      "industry": "电力",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600801",
+      "name": "华新建材",
+      "industry": "水泥",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600803",
+      "name": "新奥股份",
+      "industry": "燃气",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600808",
+      "name": "马钢股份",
+      "industry": "钢铁",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600816",
+      "name": "建元信托",
+      "industry": "非银行金融",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600820",
+      "name": "隧道股份",
+      "industry": "基础建设",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600839",
+      "name": "四川长虹",
+      "industry": "消费电子设备",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600848",
+      "name": "上海临港",
+      "industry": "房地产开发",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600859",
+      "name": "王府井",
+      "industry": "零售",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600862",
+      "name": "中航高科",
+      "industry": "航空航天装备",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600863",
+      "name": "华能蒙电",
+      "industry": "电力",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600864",
+      "name": "哈投股份",
+      "industry": "非银行金融",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600871",
+      "name": "石化油服",
+      "industry": "石油天然气",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600873",
+      "name": "梅花生物",
+      "industry": "畜牧业",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600875",
+      "name": "东方电气",
+      "industry": "电源设备",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600879",
+      "name": "航天电子",
+      "industry": "航空航天装备",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600884",
+      "name": "杉杉股份",
+      "industry": "光电子器件",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600885",
+      "name": "宏发股份",
+      "industry": "输变电设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600886",
+      "name": "国投电力",
+      "industry": "电力",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600887",
+      "name": "伊利股份",
+      "industry": "食品",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600893",
+      "name": "航发动力",
+      "industry": "航空航天装备",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600895",
+      "name": "张江高科",
+      "industry": "房地产开发",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600900",
+      "name": "长江电力",
+      "industry": "电力",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600901",
+      "name": "江苏金租",
+      "industry": "非银行金融",
+      "indexes": "中证红利 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600905",
+      "name": "三峡能源",
+      "industry": "电力",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600906",
+      "name": "财达证券",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600909",
+      "name": "华安证券",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600919",
+      "name": "江苏银行",
+      "industry": "银行",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600927",
+      "name": "永安期货",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600938",
+      "name": "中国海油",
+      "industry": "石油天然气",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600941",
+      "name": "中国移动",
+      "industry": "通信运营",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600967",
+      "name": "内蒙一机",
+      "industry": "地面装备",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600968",
+      "name": "海油发展",
+      "industry": "石油天然气",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600970",
+      "name": "中材国际",
+      "industry": "建筑施工",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600971",
+      "name": "恒源煤电",
+      "industry": "煤炭",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600977",
+      "name": "中国电影",
+      "industry": "影视动漫",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600985",
+      "name": "淮北矿业",
+      "industry": "煤炭",
+      "indexes": "中证红利 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600988",
+      "name": "赤峰黄金",
+      "industry": "贵金属",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600989",
+      "name": "宝丰能源",
+      "industry": "化学原料",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600995",
+      "name": "南网储能",
+      "industry": "电力",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600997",
+      "name": "开滦股份",
+      "industry": "煤炭",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "600998",
+      "name": "九州通",
+      "industry": "医药商业",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601000",
+      "name": "唐山港",
+      "industry": "港口航运",
+      "indexes": "中证红利 / 中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601001",
+      "name": "晋控煤业",
+      "industry": "煤炭",
+      "indexes": "中证红利 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601006",
+      "name": "大秦铁路",
+      "industry": "公路铁路",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601009",
+      "name": "南京银行",
+      "industry": "银行",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601012",
+      "name": "隆基绿能",
+      "industry": "电源设备",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601016",
+      "name": "节能风电",
+      "industry": "电力",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601018",
+      "name": "宁波港",
+      "industry": "港口航运",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601019",
+      "name": "山东出版",
+      "industry": "平面媒体",
+      "indexes": "中证红利 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601021",
+      "name": "春秋航空",
+      "industry": "航空机场",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601058",
+      "name": "赛轮轮胎",
+      "industry": "橡胶制品",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601077",
+      "name": "渝农商行",
+      "industry": "银行",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601088",
+      "name": "中国神华",
+      "industry": "煤炭",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601098",
+      "name": "中南传媒",
+      "industry": "平面媒体",
+      "indexes": "中证红利 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601099",
+      "name": "太平洋",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601100",
+      "name": "恒立液压",
+      "industry": "通用设备",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601101",
+      "name": "昊华能源",
+      "industry": "煤炭",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601106",
+      "name": "中国一重",
+      "industry": "专用设备",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601108",
+      "name": "财通证券",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601111",
+      "name": "中国国航",
+      "industry": "航空机场",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601112",
+      "name": "振石股份",
+      "industry": "合成纤维及树脂",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601117",
+      "name": "中国化学",
+      "industry": "建筑施工",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601118",
+      "name": "海南橡胶",
+      "industry": "农业",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601127",
+      "name": "赛力斯",
+      "industry": "汽车",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601128",
+      "name": "常熟银行",
+      "industry": "银行",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601139",
+      "name": "深圳燃气",
+      "industry": "燃气",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601155",
+      "name": "新城控股",
+      "industry": "房地产开发",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601156",
+      "name": "东航物流",
+      "industry": "航空机场",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601162",
+      "name": "天风证券",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601166",
+      "name": "兴业银行",
+      "industry": "银行",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601168",
+      "name": "西部矿业",
+      "industry": "基本金属",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601169",
+      "name": "北京银行",
+      "industry": "银行",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601179",
+      "name": "中国西电",
+      "industry": "输变电设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601186",
+      "name": "中国铁建",
+      "industry": "基础建设",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601187",
+      "name": "厦门银行",
+      "industry": "银行",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601198",
+      "name": "东兴证券",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601211",
+      "name": "国泰海通",
+      "industry": "非银行金融",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601212",
+      "name": "白银有色",
+      "industry": "基本金属",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601216",
+      "name": "君正集团",
+      "industry": "化学原料",
+      "indexes": "中证红利 / 中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601225",
+      "name": "陕西煤业",
+      "industry": "煤炭",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601228",
+      "name": "广州港",
+      "industry": "港口航运",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601229",
+      "name": "上海银行",
+      "industry": "银行",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601233",
+      "name": "桐昆股份",
+      "industry": "合成纤维及树脂",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601236",
+      "name": "红塔证券",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601238",
+      "name": "广汽集团",
+      "industry": "汽车",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601288",
+      "name": "农业银行",
+      "industry": "银行",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601298",
+      "name": "青岛港",
+      "industry": "港口航运",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601318",
+      "name": "中国平安",
+      "industry": "非银行金融",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601319",
+      "name": "中国人保",
+      "industry": "非银行金融",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601328",
+      "name": "交通银行",
+      "industry": "银行",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601360",
+      "name": "三六零",
+      "industry": "计算机软件",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601390",
+      "name": "中国中铁",
+      "industry": "基础建设",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601398",
+      "name": "工商银行",
+      "industry": "银行",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601399",
+      "name": "国机重装",
+      "industry": "专用设备",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601555",
+      "name": "东吴证券",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601567",
+      "name": "三星电气",
+      "industry": "输变电设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601577",
+      "name": "长沙银行",
+      "industry": "银行",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601598",
+      "name": "中国外运",
+      "industry": "物流",
+      "indexes": "中证红利 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601600",
+      "name": "中国铝业",
+      "industry": "基本金属",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601601",
+      "name": "中国太保",
+      "industry": "非银行金融",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601607",
+      "name": "上海医药",
+      "industry": "医药商业",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601608",
+      "name": "中信重工",
+      "industry": "专用设备",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601611",
+      "name": "中国核建",
+      "industry": "建筑施工",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601615",
+      "name": "明阳智能",
+      "industry": "其他电气设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601618",
+      "name": "中国中冶",
+      "industry": "建筑施工",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601628",
+      "name": "中国人寿",
+      "industry": "非银行金融",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601633",
+      "name": "长城汽车",
+      "industry": "汽车",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601658",
+      "name": "邮储银行",
+      "industry": "银行",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601665",
+      "name": "齐鲁银行",
+      "industry": "银行",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601666",
+      "name": "平煤股份",
+      "industry": "煤炭",
+      "indexes": "中证红利 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601668",
+      "name": "中国建筑",
+      "industry": "建筑施工",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601669",
+      "name": "中国电建",
+      "industry": "基础建设",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601677",
+      "name": "明泰铝业",
+      "industry": "基本金属",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601689",
+      "name": "拓普集团",
+      "industry": "汽车",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601696",
+      "name": "中银证券",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601699",
+      "name": "潞安环能",
+      "industry": "煤炭",
+      "indexes": "中证红利 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601717",
+      "name": "中创智领",
+      "industry": "专用设备",
+      "indexes": "中证红利 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601727",
+      "name": "上海电气",
+      "industry": "电源设备",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601728",
+      "name": "中国电信",
+      "industry": "通信运营",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601766",
+      "name": "中国中车",
+      "industry": "铁路设备",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601799",
+      "name": "星宇股份",
+      "industry": "汽车",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601800",
+      "name": "中国交建",
+      "industry": "基础建设",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601808",
+      "name": "中海油服",
+      "industry": "石油天然气",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601816",
+      "name": "京沪高铁",
+      "industry": "公路铁路",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601818",
+      "name": "光大银行",
+      "industry": "银行",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601825",
+      "name": "沪农商行",
+      "industry": "银行",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601838",
+      "name": "成都银行",
+      "industry": "银行",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601857",
+      "name": "中国石油",
+      "industry": "石油天然气",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601865",
+      "name": "福莱特",
+      "industry": "电源设备",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601866",
+      "name": "中远海发",
+      "industry": "港口航运",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601868",
+      "name": "中国能建",
+      "industry": "基础建设",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601869",
+      "name": "长飞光纤",
+      "industry": "通信设备",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601872",
+      "name": "招商轮船",
+      "industry": "港口航运",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601877",
+      "name": "正泰电器",
+      "industry": "输变电设备",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601880",
+      "name": "辽港股份",
+      "industry": "港口航运",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601888",
+      "name": "中国中免",
+      "industry": "零售",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601899",
+      "name": "紫金矿业",
+      "industry": "贵金属",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601916",
+      "name": "浙商银行",
+      "industry": "银行",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601919",
+      "name": "中远海控",
+      "industry": "港口航运",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601928",
+      "name": "凤凰传媒",
+      "industry": "平面媒体",
+      "indexes": "中证红利 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601939",
+      "name": "建设银行",
+      "industry": "银行",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601958",
+      "name": "金钼股份",
+      "industry": "稀有金属",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601963",
+      "name": "重庆银行",
+      "industry": "银行",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601966",
+      "name": "玲珑轮胎",
+      "industry": "橡胶制品",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601985",
+      "name": "中国核电",
+      "industry": "电力",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601988",
+      "name": "中国银行",
+      "industry": "银行",
+      "indexes": "中证红利 / 中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601990",
+      "name": "南京证券",
+      "industry": "非银行金融",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601991",
+      "name": "大唐发电",
+      "industry": "电力",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601997",
+      "name": "贵阳银行",
+      "industry": "银行",
+      "indexes": "中证红利 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "601998",
+      "name": "中信银行",
+      "industry": "银行",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603000",
+      "name": "人民网",
+      "industry": "互联网服务",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603019",
+      "name": "中科曙光",
+      "industry": "计算机硬件",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603049",
+      "name": "中策橡胶",
+      "industry": "橡胶制品",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603077",
+      "name": "和邦生物",
+      "industry": "化肥农药",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603087",
+      "name": "甘李药业",
+      "industry": "生物医药",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603092",
+      "name": "德力佳",
+      "industry": "通用设备",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603119",
+      "name": "浙江荣泰",
+      "industry": "汽车",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603129",
+      "name": "春风动力",
+      "industry": "其他交运设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603156",
+      "name": "养元饮品",
+      "industry": "饮料",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603160",
+      "name": "汇顶科技",
+      "industry": "电子元件",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603175",
+      "name": "超颖电子",
+      "industry": "电子元件",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603179",
+      "name": "新泉股份",
+      "industry": "汽车",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603225",
+      "name": "新凤鸣",
+      "industry": "合成纤维及树脂",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603233",
+      "name": "大参林",
+      "industry": "医药商业",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603256",
+      "name": "宏和科技",
+      "industry": "合成纤维及树脂",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603259",
+      "name": "药明康德",
+      "industry": "化学制药",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603260",
+      "name": "合盛硅业",
+      "industry": "化学制品",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603288",
+      "name": "海天味业",
+      "industry": "食品",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603290",
+      "name": "斯达半导",
+      "industry": "半导体",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603298",
+      "name": "杭叉集团",
+      "industry": "专用设备",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603308",
+      "name": "应流股份",
+      "industry": "通用设备",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603338",
+      "name": "浙江鼎力",
+      "industry": "专用设备",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603341",
+      "name": "龙旗科技",
+      "industry": "通信设备",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603345",
+      "name": "安井食品",
+      "industry": "食品",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603379",
+      "name": "三美股份",
+      "industry": "化学原料",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603392",
+      "name": "万泰生物",
+      "industry": "医疗器械",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603444",
+      "name": "吉比特",
+      "industry": "互联网服务",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603486",
+      "name": "科沃斯",
+      "industry": "机器人",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603501",
+      "name": "豪威集团",
+      "industry": "半导体",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603529",
+      "name": "爱玛科技",
+      "industry": "其他交运设备",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603565",
+      "name": "中谷物流",
+      "industry": "港口航运",
+      "indexes": "中证红利 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603568",
+      "name": "伟明环保",
+      "industry": "环保",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603589",
+      "name": "口子窖",
+      "industry": "饮料",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603596",
+      "name": "伯特利",
+      "industry": "汽车",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603605",
+      "name": "珀莱雅",
+      "industry": "化学制品",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603606",
+      "name": "东方电缆",
+      "industry": "输变电设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603650",
+      "name": "彤程新材",
+      "industry": "化学原料",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603658",
+      "name": "安图生物",
+      "industry": "生物医药",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603659",
+      "name": "璞泰来",
+      "industry": "金属非金属新材料",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603688",
+      "name": "石英股份",
+      "industry": "金属非金属新材料",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603699",
+      "name": "纽威股份",
+      "industry": "通用设备",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603706",
+      "name": "东方环宇",
+      "industry": "燃气",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603728",
+      "name": "鸣志电器",
+      "industry": "电机",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603737",
+      "name": "三棵树",
+      "industry": "化学制品",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603766",
+      "name": "隆鑫通用",
+      "industry": "摩托车",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603786",
+      "name": "科博达",
+      "industry": "汽车",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603799",
+      "name": "华友钴业",
+      "industry": "稀有金属",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603806",
+      "name": "福斯特",
+      "industry": "电源设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603816",
+      "name": "顾家家居",
+      "industry": "家具",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603833",
+      "name": "欧派家居",
+      "industry": "家具",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603858",
+      "name": "步长制药",
+      "industry": "中药生产",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603885",
+      "name": "吉祥航空",
+      "industry": "航空机场",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603899",
+      "name": "晨光股份",
+      "industry": "文娱用品",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603920",
+      "name": "世运电路",
+      "industry": "电子元件",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603939",
+      "name": "益丰药房",
+      "industry": "医药商业",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603967",
+      "name": "中创物流",
+      "industry": "物流",
+      "indexes": "中证红利",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603979",
+      "name": "金诚信",
+      "industry": "建筑施工",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603986",
+      "name": "兆易创新",
+      "industry": "半导体",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "603993",
+      "name": "洛阳钼业",
+      "industry": "基本金属",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "605090",
+      "name": "九丰能源",
+      "industry": "燃气",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "605117",
+      "name": "德业股份",
+      "industry": "电源设备",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "605358",
+      "name": "立昂微",
+      "industry": "半导体",
+      "indexes": "中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "605499",
+      "name": "东鹏饮料",
+      "industry": "饮料",
+      "indexes": "中证A500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "605589",
+      "name": "圣泉集团",
+      "industry": "化学新材料",
+      "indexes": "中证A500 / 中证500",
+      "board": "SH",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688002",
+      "name": "睿创微纳",
+      "industry": "电子设备制造",
+      "indexes": "中证A500 / 中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688005",
+      "name": "容百科技",
+      "industry": "金属非金属新材料",
+      "indexes": "中证A500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688008",
+      "name": "澜起科技",
+      "industry": "电子设备制造",
+      "indexes": "中证A500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688009",
+      "name": "中国通号",
+      "industry": "轨道交通设备",
+      "indexes": "中证A500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688012",
+      "name": "中微公司",
+      "industry": "半导体",
+      "indexes": "中证A500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688017",
+      "name": "绿的谐波",
+      "industry": "通用设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688018",
+      "name": "乐鑫科技",
+      "industry": "半导体",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688019",
+      "name": "安集科技",
+      "industry": "半导体",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688027",
+      "name": "国盾量子",
+      "industry": "通信设备",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688036",
+      "name": "传音控股",
+      "industry": "消费电子设备",
+      "indexes": "中证A500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688037",
+      "name": "芯源微",
+      "industry": "专用设备",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688041",
+      "name": "海光信息",
+      "industry": "半导体",
+      "indexes": "中证A500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688047",
+      "name": "龙芯中科",
+      "industry": "半导体",
+      "indexes": "中证A500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688052",
+      "name": "纳芯微",
+      "industry": "半导体",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688063",
+      "name": "派能科技",
+      "industry": "其他电气设备",
+      "indexes": "中证A500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688065",
+      "name": "凯赛生物",
+      "industry": "化学新材料",
+      "indexes": "中证A500 / 中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688072",
+      "name": "拓荆科技",
+      "industry": "半导体",
+      "indexes": "中证A500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688099",
+      "name": "晶晨股份",
+      "industry": "半导体",
+      "indexes": "中证A500 / 中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688111",
+      "name": "金山办公",
+      "industry": "计算机软件",
+      "indexes": "中证A500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688114",
+      "name": "华大智造",
+      "industry": "医疗器械",
+      "indexes": "中证A500 / 中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688116",
+      "name": "天奈科技",
+      "industry": "金属非金属新材料",
+      "indexes": "中证A500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688120",
+      "name": "华海清科",
+      "industry": "电子设备制造",
+      "indexes": "中证A500 / 中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688122",
+      "name": "西部超导",
+      "industry": "金属非金属新材料",
+      "indexes": "中证A500 / 中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688126",
+      "name": "沪硅产业",
+      "industry": "半导体",
+      "indexes": "中证A500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688166",
+      "name": "博瑞医药",
+      "industry": "化学制药",
+      "indexes": "中证A500 / 中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688169",
+      "name": "石头科技",
+      "industry": "机器人",
+      "indexes": "中证A500 / 中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688172",
+      "name": "燕东微",
+      "industry": "半导体",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688180",
+      "name": "君实生物",
+      "industry": "生物医药",
+      "indexes": "中证A500 / 中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688187",
+      "name": "时代电气",
+      "industry": "轨道交通设备",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688188",
+      "name": "柏楚电子",
+      "industry": "计算机软件",
+      "indexes": "中证A500 / 中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688192",
+      "name": "迪哲医药",
+      "industry": "生物医药",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688200",
+      "name": "华峰测控",
+      "industry": "电子设备制造",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688213",
+      "name": "思特威",
+      "industry": "半导体",
+      "indexes": "中证A500 / 中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688220",
+      "name": "翱捷科技",
+      "industry": "半导体",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688223",
+      "name": "晶科能源",
+      "industry": "电源设备",
+      "indexes": "中证A500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688234",
+      "name": "天岳先进",
+      "industry": "半导体",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688235",
+      "name": "百济神州",
+      "industry": "生物医药",
+      "indexes": "中证A500 / 中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688248",
+      "name": "南网科技",
+      "industry": "输变电设备",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688256",
+      "name": "寒武纪",
+      "industry": "半导体",
+      "indexes": "中证A500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688266",
+      "name": "泽璟制药",
+      "industry": "化学制药",
+      "indexes": "中证A500 / 中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688271",
+      "name": "联影医疗",
+      "industry": "医疗器械",
+      "indexes": "中证A500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688278",
+      "name": "特宝生物",
+      "industry": "生物医药",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688281",
+      "name": "华秦科技",
+      "industry": "航空航天装备",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688295",
+      "name": "中复神鹰",
+      "industry": "合成纤维及树脂",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688297",
+      "name": "中无人机",
+      "industry": "航空航天装备",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688301",
+      "name": "奕瑞科技",
+      "industry": "医疗器械",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688303",
+      "name": "大全能源",
+      "industry": "电源设备",
+      "indexes": "中证A500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688313",
+      "name": "仕佳光子",
+      "industry": "电子器件",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688318",
+      "name": "财富趋势",
+      "industry": "计算机软件",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688322",
+      "name": "奥比中光",
+      "industry": "电子设备制造",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688331",
+      "name": "荣昌生物",
+      "industry": "生物医药",
+      "indexes": "中证A500 / 中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688336",
+      "name": "三生国健",
+      "industry": "生物医药",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688343",
+      "name": "云天励飞",
+      "industry": "计算机软件",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688347",
+      "name": "华虹宏力",
+      "industry": "半导体",
+      "indexes": "中证A500 / 中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688349",
+      "name": "三一重能",
+      "industry": "电源设备",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688361",
+      "name": "中科飞测",
+      "industry": "专用设备",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688363",
+      "name": "华熙生物",
+      "industry": "生物医药",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688375",
+      "name": "国博电子",
+      "industry": "半导体",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688385",
+      "name": "复旦微电",
+      "industry": "半导体",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688387",
+      "name": "信科移动",
+      "industry": "互联网服务",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688390",
+      "name": "固德威",
+      "industry": "电源设备",
+      "indexes": "中证A500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688396",
+      "name": "华润微",
+      "industry": "半导体",
+      "indexes": "中证A500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688411",
+      "name": "海博思创",
+      "industry": "电源设备",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688425",
+      "name": "铁建重工",
+      "industry": "轨道交通设备",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688469",
+      "name": "芯联集成",
+      "industry": "半导体",
+      "indexes": "中证A500 / 中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688472",
+      "name": "阿特斯",
+      "industry": "其他电气设备",
+      "indexes": "中证A500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688475",
+      "name": "萤石网络",
+      "industry": "电子设备制造",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688498",
+      "name": "源杰科技",
+      "industry": "电子设备制造",
+      "indexes": "中证A500 / 中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688506",
+      "name": "百利天恒",
+      "industry": "生物医药",
+      "indexes": "中证A500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688520",
+      "name": "神州细胞",
+      "industry": "生物医药",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688521",
+      "name": "芯原股份",
+      "industry": "半导体",
+      "indexes": "中证A500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688525",
+      "name": "佰维存储",
+      "industry": "电子设备制造",
+      "indexes": "中证A500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688538",
+      "name": "和辉光电",
+      "industry": "电子器件",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688561",
+      "name": "奇安信",
+      "industry": "计算机软件",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688563",
+      "name": "航材股份",
+      "industry": "航空航天装备",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688568",
+      "name": "中科星图",
+      "industry": "计算机软件",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688578",
+      "name": "艾力斯",
+      "industry": "化学制药",
+      "indexes": "中证A500 / 中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688582",
+      "name": "芯动联科",
+      "industry": "电子元件",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688599",
+      "name": "天合光能",
+      "industry": "其他电气设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688608",
+      "name": "恒玄科技",
+      "industry": "半导体",
+      "indexes": "中证A500 / 中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688615",
+      "name": "合合信息",
+      "industry": "计算机软件",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688617",
+      "name": "惠泰医疗",
+      "industry": "医疗器械",
+      "indexes": "中证A500 / 中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688629",
+      "name": "华丰科技",
+      "industry": "电子设备制造",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688676",
+      "name": "金盘科技",
+      "industry": "输变电设备",
+      "indexes": "中证A500 / 中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688692",
+      "name": "达梦数据",
+      "industry": "计算机软件",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688702",
+      "name": "盛科通信",
+      "industry": "半导体",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688708",
+      "name": "佳驰科技",
+      "industry": "化学新材料",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688709",
+      "name": "成都华微",
+      "industry": "半导体",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688728",
+      "name": "格科微",
+      "industry": "半导体",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688772",
+      "name": "珠海冠宇",
+      "industry": "电源设备",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688777",
+      "name": "中控技术",
+      "industry": "计算机软件",
+      "indexes": "中证A500 / 中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688778",
+      "name": "厦钨新能",
+      "industry": "金属非金属新材料",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688819",
+      "name": "天能股份",
+      "industry": "电源设备",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "688981",
+      "name": "中芯国际",
+      "industry": "半导体",
+      "indexes": "中证A500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "689009",
+      "name": "九号公司",
+      "industry": "其他交运设备",
+      "indexes": "中证500",
+      "board": "KC",
+      "market": "cn",
+      "group": "cn"
+    },
+    {
+      "symbol": "920599",
+      "name": "同力股份",
+      "industry": "专用设备",
+      "indexes": "中证红利",
+      "board": "BJ",
+      "market": "cn",
+      "group": "cn"
+    }
+  ],
+  "fetched_at": "2026-09-29 12:43"
+}
