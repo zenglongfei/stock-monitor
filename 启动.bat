@@ -1,5 +1,19 @@
-@echo off
-cd /d "%~dp0"
-echo æ‰“å¼€ http://127.0.0.1:8765
-echo å…³æŽ‰è¿™ä¸ªçª—å£å°±ä¼šåœæ­¢ã€‚
-"%~dp0stock-monitor.exe"
+@echo off
+chcp 936 >nul
+cd /d "%~dp0"
+echo ¹ÉÆ±ÐÐÇé¼à²â
+echo ä¯ÀÀÆ÷´ò¿ª http://127.0.0.1:8765
+echo ¹ØµôÕâ¸ö´°¿Ú¾Í»áÍ£Ö¹¡£
+echo.
+netstat -ano | findstr "127.0.0.1:8765" | findstr "LISTENING" >nul
+if not errorlevel 1 (
+  echo 8765 ¶Ë¿ÚÒÑ¾­ÓÐ³ÌÐòÔÚÔËÐÐ£¬Ö±½Ó´ò¿ªÒ³Ãæ¡£
+  start "" "http://127.0.0.1:8765"
+  pause
+  exit /b 0
+)
+start "" cmd /c "ping -n 3 127.0.0.1 >nul & start http://127.0.0.1:8765"
+"%~dp0stock-monitor.exe"
+echo.
+echo ³ÌÐòÒÑÍË³ö¡£
+pause
